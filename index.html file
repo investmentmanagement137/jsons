@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JSON Data Repository</title>
+</head>
+<body>
+    <h1>Available JSON Files</h1>
+    <ul>
+        <li><a href="Sectorlist.json">Sectorlist.json</a></li>
+    </ul>
+</body>
+</html>
