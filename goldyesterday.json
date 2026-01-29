@@ -1,12 +1,13 @@
-ewogICJqc29uIjogewogICAgImRhdGUiOiAiMjktSmFuLTIwMjYiLAogICAg
-ImdvbGRfaGFsbG1hcmtfdG9sYSI6IDMzOTMwMCwKICAgICJnb2xkX3RhamFi
-aV90b2xhIjogMzM1OTAwLAogICAgInNpbHZlcl90b2xhIjogNzUwNSwKICAg
-ICJnb2xkX2hhbGxtYXJrXzEwX2dyYW0iOiAyOTA4OTUsCiAgICAiZ29sZF90
-YWphYmlfMTBfZ3JhbSI6IDI4Nzk4Ni4wNSwKICAgICJzaWx2ZXJfMTBfZ3Jh
-bSI6IDY0MzQuNSwKICAgICJmdWxsX25vdGUiOiAiTm90ZTogMSB0b2xhID0g
-MTAwIGxhbCA9IDExLjY2IGdyYW1zLiBHb2xkLVNpbHZlciBpbmZvcm1hdGlv
-biBwcm92aWRlZCBieSBGZWRlcmF0aW9uIG9mIG5lcGFsIGdvbGQgYW5kIHNp
-bHZlciBkZWFsZXJzIGFzc29jaWF0aW9uLiBEYWlseSB1cGRhdGVkIG9uID4g
-MTEgYW0gTlBULiBHb2xkICYgU2lsdmVyIHJhdGUgdXBkYXRlZCBvbiAyOS1K
-YW4tMjAyNiIsCiAgICAibGFzdF91cGRhdGVkX3RleHQiOiAiMjktSmFuLTIw
-MjYiCiAgfQp9
+{
+  "json": {
+    "date": "29-Jan-2026",
+    "gold_hallmark_tola": 339300,
+    "gold_tajabi_tola": 335900,
+    "silver_tola": 7505,
+    "gold_hallmark_10_gram": 290895,
+    "gold_tajabi_10_gram": 287986.05,
+    "silver_10_gram": 6434.5,
+    "full_note": "Note: 1 tola = 100 lal = 11.66 grams. Gold-Silver information provided by Federation of nepal gold and silver dealers association. Daily updated on > 11 am NPT. Gold & Silver rate updated on 29-Jan-2026",
+    "last_updated_text": "29-Jan-2026"
+  }
+}
