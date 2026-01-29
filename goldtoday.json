@@ -1,58 +1,13 @@
-[
-  {
-    "Attribute": "Nepali Date",
-    "Value": "१५ माघ २०८२"
-  },
-  {
-    "Attribute": "Nepali Day",
-    "Value": "बिहिवार"
-  },
-  {
-    "Attribute": "English Day",
-    "Value": "Wednesday"
-  },
-  {
-    "Attribute": "English Date",
-    "Value": "January 28,2026"
-  },
-  {
-    "Attribute": "English Time",
-    "Value": "13:45 PM"
-  },
-  {
-    "Attribute": "Tithi",
-    "Value": "माघ शुक्ल एकादशी"
-  },
-  {
-    "Attribute": "Panchanga",
-    "Value": "एन्द्र विष्टि/भद्रा रोहिणी"
-  },
-  {
-    "Attribute": "Nepali Time",
-    "Value": "बिहानको १० : २३"
-  },
-  {
-    "Attribute": "Gold Hallmark (Tola)",
-    "Value": "Nrs. 339300"
-  },
-  {
-    "Attribute": "Gold Tejabi (Tola)",
-    "Value": "Nrs. 0.00"
-  },
-  {
-    "Attribute": "Silver (Tola)",
-    "Value": "Nrs. 7,299.91"
-  },
-  {
-    "Attribute": "Gold Hallmark (10g)",
-    "Value": "Nrs. 283,320.00"
-  },
-  {
-    "Attribute": "Gold Tejabi (10g)",
-    "Value": "Nrs. 0.00"
-  },
-  {
-    "Attribute": "Silver (10g)",
-    "Value": "Nrs. 6,258.50"
+{
+  "json": {
+    "date": "29-Jan-2026",
+    "gold_hallmark_tola": 339300,
+    "gold_tajabi_tola": 335900,
+    "silver_tola": 7505,
+    "gold_hallmark_10_gram": 290895,
+    "gold_tajabi_10_gram": 287986.05,
+    "silver_10_gram": 6434.5,
+    "full_note": "Note: 1 tola = 100 lal = 11.66 grams. Gold-Silver information provided by Federation of nepal gold and silver dealers association. Daily updated on > 11 am NPT. Gold & Silver rate updated on 29-Jan-2026",
+    "last_updated_text": "29-Jan-2026"
   }
-]
+}
