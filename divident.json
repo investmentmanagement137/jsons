@@ -1,1 +1,21 @@
-
+{
+  "sn": 1,
+  "companyName": "Narayani Development Bank Limited",
+  "stockSymbol": "NABBC",
+  "bonus": null,
+  "cash": null,
+  "totalDividend": null,
+  "bookClosureDateAD": null,
+  "bookClosureDateBS": null,
+  "fiscalYearAD": "2025/2026",
+  "fiscalYearBS": "2082/2083",
+  "rightShare": "1:1",
+  "rightBookCloseDateAD": "2025-08-25",
+  "rightBookCloseDateBS": "2082-05-09",
+  "rightBookCloseDateAD_Year": 2025,
+  "rightBookCloseDateAD_Month": 8,
+  "rightBookCloseDateAD_Day": 25,
+  "rightBookCloseDateBS_Year": 2082,
+  "rightBookCloseDateBS_Month": 5,
+  "rightBookCloseDateBS_Day": 9
+}
