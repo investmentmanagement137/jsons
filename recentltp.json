@@ -1,6 +1,2596 @@
 {
-  "created_at": "2025-12-18T04:58:02.804Z",
-  "Script": "MAKAR",
-  "Price": 540,
-  "Traded _date": "2026-02-03T15:00:14.569+05:45"
+  "all recent price": [
+    {
+      "created_at": "2025-12-18T04:58:02.804Z",
+      "Script": "MAKAR",
+      "Price": 540,
+      "Traded _date": "2026-02-03T15:00:14.569+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:18.983Z",
+      "Script": "ALBSLP",
+      "Price": 549,
+      "Traded _date": "2025-08-25T12:56:02.156018"
+    },
+    {
+      "created_at": "2025-12-18T04:54:18.999Z",
+      "Script": "BFCPO",
+      "Price": 273.8,
+      "Traded _date": "2025-08-11T12:28:24.195197"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.012Z",
+      "Script": "CBBLPO",
+      "Price": 391.25,
+      "Traded _date": "2025-12-11T11:05:14.564065"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.758Z",
+      "Script": "UMRH",
+      "Price": 553,
+      "Traded _date": "2026-02-03T15:00:14.579+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.748Z",
+      "Script": "SMPDA",
+      "Price": 885,
+      "Traded _date": "2026-02-03T15:00:14.580+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.028Z",
+      "Script": "EBLD86",
+      "Price": 1111,
+      "Traded _date": "2025-12-16T14:36:35.438496"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.815Z",
+      "Script": "MCHL",
+      "Price": 432,
+      "Traded _date": "2026-02-03T15:00:14.588+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.783Z",
+      "Script": "MBL",
+      "Price": 226.9,
+      "Traded _date": "2026-02-03T15:00:14.590+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.031Z",
+      "Script": "FMDBLP",
+      "Price": 280.5,
+      "Traded _date": "2025-08-12T12:03:37.551319"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.032Z",
+      "Script": "GBBLPO",
+      "Price": 200,
+      "Traded _date": "2025-11-03T13:42:27.655578"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.034Z",
+      "Script": "GBIMEP",
+      "Price": 100,
+      "Traded _date": "2025-12-14T14:09:12.722706"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.702Z",
+      "Script": "SALICO",
+      "Price": 604,
+      "Traded _date": "2026-02-03T15:00:14.595+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.717Z",
+      "Script": "MMKJL",
+      "Price": 598,
+      "Traded _date": "2026-02-03T15:00:14.610+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.800Z",
+      "Script": "SPL",
+      "Price": 836,
+      "Traded _date": "2026-02-03T15:00:14.617+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.047Z",
+      "Script": "HBLPO",
+      "Price": 131,
+      "Traded _date": "2025-12-17T11:37:05.086292"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.082Z",
+      "Script": "ICFCPO",
+      "Price": 366,
+      "Traded _date": "2025-08-26T11:31:47.762425"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.083Z",
+      "Script": "IGIPO",
+      "Price": 340,
+      "Traded _date": "2025-05-26T14:51:07.48594"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.849Z",
+      "Script": "ULBSL",
+      "Price": 3270,
+      "Traded _date": "2026-02-03T15:00:14.618+05:45"
+    },
+    {
+      "created_at": "2026-01-18T06:01:11.171Z",
+      "Script": "RBBF40",
+      "Price": 9.38,
+      "Traded _date": "2026-02-03T15:00:14.659+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.084Z",
+      "Script": "ILBSP",
+      "Price": 624,
+      "Traded _date": "2025-12-08T13:11:11.780798"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.022Z",
+      "Script": "CZBILP",
+      "Price": 109,
+      "Traded _date": "2026-01-22T15:10:16.110+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.085Z",
+      "Script": "JBBLPO",
+      "Price": 187,
+      "Traded _date": "2026-01-21T15:10:17.682+05:45"
+    },
+    {
+      "created_at": "2026-01-14T09:15:15.321Z",
+      "Script": "NLO",
+      "Price": 269.4,
+      "Traded _date": "2026-02-02T15:10:13.370+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.046Z",
+      "Script": "HBLD83",
+      "Price": 1054,
+      "Traded _date": "2026-01-27T15:00:14.683+05:45"
+    },
+    {
+      "created_at": "2026-01-27T06:25:16.410Z",
+      "Script": "NLICLP",
+      "Price": 321,
+      "Traded _date": "2026-02-01T15:10:15.296+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.741Z",
+      "Script": "CYCL",
+      "Price": 1580,
+      "Traded _date": "2026-02-03T15:00:14.384+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.673Z",
+      "Script": "RIDI",
+      "Price": 239,
+      "Traded _date": "2026-02-03T15:00:14.421+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.817Z",
+      "Script": "PFL",
+      "Price": 382,
+      "Traded _date": "2026-02-03T15:00:14.452+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.712Z",
+      "Script": "OMPL",
+      "Price": 1409.9,
+      "Traded _date": "2026-02-03T15:00:14.460+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.743Z",
+      "Script": "MEHL",
+      "Price": 442,
+      "Traded _date": "2026-02-03T15:00:14.482+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.009Z",
+      "Script": "BOKD86KA",
+      "Price": 1167,
+      "Traded _date": "2026-02-03T15:00:14.523+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.763Z",
+      "Script": "NICA",
+      "Price": 328,
+      "Traded _date": "2026-02-03T15:00:14.529+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.714Z",
+      "Script": "CITY",
+      "Price": 500,
+      "Traded _date": "2026-02-03T15:00:14.535+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.702Z",
+      "Script": "SPDL",
+      "Price": 403,
+      "Traded _date": "2026-02-03T15:00:14.550+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.708Z",
+      "Script": "HLI",
+      "Price": 365.1,
+      "Traded _date": "2026-02-03T15:00:14.555+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.697Z",
+      "Script": "HHL",
+      "Price": 338,
+      "Traded _date": "2026-02-03T15:00:14.560+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.729Z",
+      "Script": "BEDC",
+      "Price": 539,
+      "Traded _date": "2026-02-03T15:00:14.564+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.853Z",
+      "Script": "LLBS",
+      "Price": 1008,
+      "Traded _date": "2026-02-02T15:10:13.328+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.121Z",
+      "Script": "NBLD87",
+      "Price": 1091,
+      "Traded _date": "2026-02-02T15:10:13.364+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.044Z",
+      "Script": "GWFD83",
+      "Price": 1139,
+      "Traded _date": "2026-02-02T15:10:13.422+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.864Z",
+      "Script": "SBID2090",
+      "Price": 1047,
+      "Traded _date": "2026-02-01T15:10:15.286+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.013Z",
+      "Script": "CBLD88",
+      "Price": 1260,
+      "Traded _date": "2026-01-13T15:00:09.510+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.216Z",
+      "Script": "SBIBD86",
+      "Price": 1144,
+      "Traded _date": "2026-01-20T15:00:14.293+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.018Z",
+      "Script": "CIZBD86",
+      "Price": 1178,
+      "Traded _date": "2026-01-21T15:10:17.698+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.785Z",
+      "Script": "PPL",
+      "Price": 401,
+      "Traded _date": "2026-02-03T15:00:14.416+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.725Z",
+      "Script": "NTC",
+      "Price": 850.9,
+      "Traded _date": "2026-02-03T15:00:14.454+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.215Z",
+      "Script": "SBD87",
+      "Price": 1102.6,
+      "Traded _date": "2026-02-02T15:10:13.434+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.210Z",
+      "Script": "SAND2085",
+      "Price": 1133,
+      "Traded _date": "2026-02-01T15:10:15.295+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.726Z",
+      "Script": "CORBL",
+      "Price": 1782.3,
+      "Traded _date": "2026-02-03T15:00:14.455+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.738Z",
+      "Script": "GFCL",
+      "Price": 661.8,
+      "Traded _date": "2026-02-03T15:00:14.465+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.682Z",
+      "Script": "BHL",
+      "Price": 196.5,
+      "Traded _date": "2026-02-03T15:00:14.467+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.086Z",
+      "Script": "JBLBP",
+      "Price": 100,
+      "Traded _date": "2025-11-27T13:24:34.452923"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.204Z",
+      "Script": "SADBLP",
+      "Price": 232,
+      "Traded _date": "2025-09-07T11:57:14.061062"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.210Z",
+      "Script": "SAMAJ",
+      "Price": 1875.8,
+      "Traded _date": "2025-10-16T14:59:08.549483"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.220Z",
+      "Script": "SBLD84",
+      "Price": 1115,
+      "Traded _date": "2026-01-05T15:00:10.840+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.739Z",
+      "Script": "ALBSL",
+      "Price": 1135,
+      "Traded _date": "2026-02-03T15:00:14.494+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.701Z",
+      "Script": "KBL",
+      "Price": 185.2,
+      "Traded _date": "2026-02-03T15:00:14.500+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.767Z",
+      "Script": "PROFL",
+      "Price": 462.8,
+      "Traded _date": "2026-02-03T15:00:14.522+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.713Z",
+      "Script": "SAHAS",
+      "Price": 558.9,
+      "Traded _date": "2026-02-03T15:00:14.536+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.807Z",
+      "Script": "NHDL",
+      "Price": 660.1,
+      "Traded _date": "2026-02-03T15:00:14.562+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.834Z",
+      "Script": "KEF",
+      "Price": 9.69,
+      "Traded _date": "2026-02-03T15:00:14.579+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.752Z",
+      "Script": "STC",
+      "Price": 5595,
+      "Traded _date": "2026-02-03T15:00:14.605+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.697Z",
+      "Script": "ACLBSL",
+      "Price": 943,
+      "Traded _date": "2026-02-03T15:00:14.631+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.835Z",
+      "Script": "RSY",
+      "Price": 9.75,
+      "Traded _date": "2026-02-03T15:00:14.649+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.851Z",
+      "Script": "SBCF",
+      "Price": 9.56,
+      "Traded _date": "2026-02-03T15:00:14.650+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.215Z",
+      "Script": "SBD89",
+      "Price": 1230,
+      "Traded _date": "2026-02-03T15:00:14.660+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.837Z",
+      "Script": "RMF1",
+      "Price": 9.6,
+      "Traded _date": "2026-02-03T15:00:14.662+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.028Z",
+      "Script": "EBLD91",
+      "Price": 1075,
+      "Traded _date": "2026-02-03T15:00:14.679+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.151Z",
+      "Script": "PRVUPO",
+      "Price": 100,
+      "Traded _date": "2026-01-22T15:10:16.111+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.089Z",
+      "Script": "KBLD89",
+      "Price": 1249,
+      "Traded _date": "2026-02-02T15:10:13.421+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.096Z",
+      "Script": "LBLD88",
+      "Price": 1161,
+      "Traded _date": "2026-01-26T15:10:21.306+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.816Z",
+      "Script": "NABBC",
+      "Price": 1770,
+      "Traded _date": "2026-02-03T15:00:14.390+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.220Z",
+      "Script": "SBLD83",
+      "Price": 1060.4,
+      "Traded _date": "2026-01-19T15:45:13.460+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.221Z",
+      "Script": "SBLD89",
+      "Price": 1314,
+      "Traded _date": "2026-01-20T15:00:14.287+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.089Z",
+      "Script": "KBLD90",
+      "Price": 1500,
+      "Traded _date": "2026-01-26T15:10:21.352+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.090Z",
+      "Script": "KBLPO",
+      "Price": 102.9,
+      "Traded _date": "2026-01-28T15:10:13.766+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.826Z",
+      "Script": "MATRI",
+      "Price": 977.9,
+      "Traded _date": "2026-02-03T15:00:14.392+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.716Z",
+      "Script": "TAMOR",
+      "Price": 448,
+      "Traded _date": "2026-02-03T15:00:14.495+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.751Z",
+      "Script": "JBLB",
+      "Price": 1310,
+      "Traded _date": "2026-02-03T15:00:14.499+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.755Z",
+      "Script": "NFS",
+      "Price": 644.9,
+      "Traded _date": "2026-02-03T15:00:14.511+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.809Z",
+      "Script": "GILB",
+      "Price": 1165,
+      "Traded _date": "2026-02-03T15:00:14.519+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.763Z",
+      "Script": "NIMB",
+      "Price": 193,
+      "Traded _date": "2026-02-03T15:00:14.538+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.674Z",
+      "Script": "DHPL",
+      "Price": 301,
+      "Traded _date": "2026-02-03T15:00:14.539+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.764Z",
+      "Script": "GVL",
+      "Price": 496,
+      "Traded _date": "2026-02-03T15:00:14.544+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.688Z",
+      "Script": "USHL",
+      "Price": 762,
+      "Traded _date": "2026-02-03T15:00:14.557+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.813Z",
+      "Script": "DOLTI",
+      "Price": 519.5,
+      "Traded _date": "2026-02-03T15:00:14.608+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.185Z",
+      "Script": "RBBD83",
+      "Price": 1035,
+      "Traded _date": "2026-02-03T15:00:14.678+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.088Z",
+      "Script": "JSLBBP",
+      "Price": 636.1,
+      "Traded _date": "2025-11-09T14:59:13.425528"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.088Z",
+      "Script": "KBLD86",
+      "Price": 1140,
+      "Traded _date": "2025-12-11T13:27:53.614051"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.094Z",
+      "Script": "KSBBLP",
+      "Price": 165.7,
+      "Traded _date": "2025-09-23T12:58:14.10231"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.098Z",
+      "Script": "Loading...",
+      "Price": null,
+      "Traded _date": null
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.150Z",
+      "Script": "PROFLP",
+      "Price": 261,
+      "Traded _date": "2025-09-28T13:24:10.259843"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.221Z",
+      "Script": "SBLPO",
+      "Price": 169,
+      "Traded _date": "2025-09-07T14:48:34.291599"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.126Z",
+      "Script": "NICAD8283",
+      "Price": null,
+      "Traded _date": null
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.803Z",
+      "Script": "MDB",
+      "Price": 640,
+      "Traded _date": "2026-02-03T15:00:14.578+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.749Z",
+      "Script": "MKHC",
+      "Price": 341,
+      "Traded _date": "2026-02-03T15:00:14.583+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.756Z",
+      "Script": "MEL",
+      "Price": 278.9,
+      "Traded _date": "2026-02-03T15:00:14.584+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.820Z",
+      "Script": "SHL",
+      "Price": 497,
+      "Traded _date": "2026-02-03T15:00:14.585+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.694Z",
+      "Script": "NICL",
+      "Price": 504.1,
+      "Traded _date": "2026-02-03T15:00:14.598+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.789Z",
+      "Script": "GBBL",
+      "Price": 397.8,
+      "Traded _date": "2026-02-03T15:00:14.611+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.717Z",
+      "Script": "ILBS",
+      "Price": 992.8,
+      "Traded _date": "2026-02-03T15:00:14.669+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.235Z",
+      "Script": "SMATAP",
+      "Price": 441,
+      "Traded _date": "2025-11-11T11:46:27.282943"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.112Z",
+      "Script": "MLBLPO",
+      "Price": 195,
+      "Traded _date": "2026-01-29T15:10:13.196+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.098Z",
+      "Script": "LSLPO",
+      "Price": 111,
+      "Traded _date": "2025-11-18T11:30:54.178116"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.105Z",
+      "Script": "MDBPO",
+      "Price": 359,
+      "Traded _date": "2025-08-07T12:45:37.215923"
+    },
+    {
+      "created_at": "2025-12-18T04:54:18.886Z",
+      "Script": "ACLBSLP",
+      "Price": 613,
+      "Traded _date": "2025-08-18T14:46:54.865114"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.195Z",
+      "Script": "RLFLPO",
+      "Price": 274,
+      "Traded _date": "2026-01-05T15:00:10.863+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.139Z",
+      "Script": "No records found",
+      "Price": null,
+      "Traded _date": null
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.111Z",
+      "Script": "MLBLD89",
+      "Price": 1255,
+      "Traded _date": "2026-02-02T15:10:13.439+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.136Z",
+      "Script": "NMBD89/90",
+      "Price": 1274,
+      "Traded _date": "2026-01-28T15:10:13.754+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.701Z",
+      "Script": "MNBBL",
+      "Price": 362.3,
+      "Traded _date": "2026-02-03T15:00:14.386+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.783Z",
+      "Script": "AHL",
+      "Price": 552,
+      "Traded _date": "2026-02-03T15:00:14.426+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.730Z",
+      "Script": "PURE",
+      "Price": 1081,
+      "Traded _date": "2026-02-03T15:00:14.429+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.801Z",
+      "Script": "EHPL",
+      "Price": 429,
+      "Traded _date": "2026-02-03T15:00:14.451+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.695Z",
+      "Script": "UAIL",
+      "Price": 459,
+      "Traded _date": "2026-02-03T15:00:14.456+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.668Z",
+      "Script": "SAGAR",
+      "Price": 2125,
+      "Traded _date": "2026-02-03T15:00:14.467+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.731Z",
+      "Script": "RURU",
+      "Price": 665.4,
+      "Traded _date": "2026-02-03T15:00:14.468+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.724Z",
+      "Script": "BARUN",
+      "Price": 375.8,
+      "Traded _date": "2026-02-03T15:00:14.470+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.822Z",
+      "Script": "MHL",
+      "Price": 510,
+      "Traded _date": "2026-02-03T15:00:14.478+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.693Z",
+      "Script": "ALICL",
+      "Price": 477,
+      "Traded _date": "2026-02-03T15:00:14.484+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.800Z",
+      "Script": "VLUCL",
+      "Price": 575.1,
+      "Traded _date": "2026-02-03T15:00:14.512+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.688Z",
+      "Script": "NBL",
+      "Price": 243.7,
+      "Traded _date": "2026-02-03T15:00:14.519+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.782Z",
+      "Script": "HURJA",
+      "Price": 244.7,
+      "Traded _date": "2026-02-03T15:00:14.520+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.718Z",
+      "Script": "JFL",
+      "Price": 436.4,
+      "Traded _date": "2026-02-03T15:00:14.525+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.698Z",
+      "Script": "RNLI",
+      "Price": 460.4,
+      "Traded _date": "2026-02-03T15:00:14.547+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.723Z",
+      "Script": "USHEC",
+      "Price": 490.1,
+      "Traded _date": "2026-02-03T15:00:14.568+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.760Z",
+      "Script": "SANIMA",
+      "Price": 329.3,
+      "Traded _date": "2026-02-03T15:00:14.575+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.685Z",
+      "Script": "RSDC",
+      "Price": 653.1,
+      "Traded _date": "2026-02-03T15:00:14.577+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.147Z",
+      "Script": "PMLIP",
+      "Price": 270,
+      "Traded _date": "2026-01-13T15:00:09.438+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.128Z",
+      "Script": "NICD83/84",
+      "Price": 1119.5,
+      "Traded _date": "2026-01-19T15:45:13.445+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.146Z",
+      "Script": "PCBLP",
+      "Price": 100,
+      "Traded _date": "2026-01-27T15:00:14.630+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.135Z",
+      "Script": "NMBD2085",
+      "Price": 1165,
+      "Traded _date": "2026-02-02T15:10:13.425+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.124Z",
+      "Script": "NIBD84",
+      "Price": 1107.4,
+      "Traded _date": "2026-01-27T15:00:14.670+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.787Z",
+      "Script": "UNHPL",
+      "Price": 498,
+      "Traded _date": "2026-02-03T15:00:14.381+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.827Z",
+      "Script": "NIL",
+      "Price": 649.1,
+      "Traded _date": "2026-02-03T15:00:14.395+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.734Z",
+      "Script": "SANVI",
+      "Price": 898,
+      "Traded _date": "2026-02-03T15:00:14.402+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.709Z",
+      "Script": "MFIL",
+      "Price": 790,
+      "Traded _date": "2026-02-03T15:00:14.414+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.708Z",
+      "Script": "NYADI",
+      "Price": 400,
+      "Traded _date": "2026-02-03T15:00:14.430+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.795Z",
+      "Script": "ULHC",
+      "Price": 494,
+      "Traded _date": "2026-02-03T15:00:14.431+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.804Z",
+      "Script": "MPFL",
+      "Price": 640,
+      "Traded _date": "2026-02-03T15:00:14.450+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.681Z",
+      "Script": "SONA",
+      "Price": 433.7,
+      "Traded _date": "2026-02-03T15:00:14.469+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.661Z",
+      "Script": "LBBL",
+      "Price": 474,
+      "Traded _date": "2026-02-03T15:00:14.473+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.726Z",
+      "Script": "BHDC",
+      "Price": 478,
+      "Traded _date": "2026-02-03T15:00:14.502+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.742Z",
+      "Script": "GMFIL",
+      "Price": 470,
+      "Traded _date": "2026-02-03T15:00:14.514+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.706Z",
+      "Script": "FMDBL",
+      "Price": 800,
+      "Traded _date": "2026-02-03T15:00:14.561+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.737Z",
+      "Script": "SLBBL",
+      "Price": 821,
+      "Traded _date": "2026-02-03T15:00:14.591+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.812Z",
+      "Script": "TRH",
+      "Price": 764,
+      "Traded _date": "2026-02-03T15:00:14.594+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.849Z",
+      "Script": "MLBSL",
+      "Price": 1922.9,
+      "Traded _date": "2026-02-03T15:00:14.614+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.742Z",
+      "Script": "JBBD87",
+      "Price": 1113,
+      "Traded _date": "2026-02-03T15:00:14.677+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.145Z",
+      "Script": "PBLD86",
+      "Price": 1162,
+      "Traded _date": "2026-02-03T15:00:14.680+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.114Z",
+      "Script": "MNBBLP",
+      "Price": 236.2,
+      "Traded _date": "2025-10-15T13:42:58.004341"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.117Z",
+      "Script": "MSLBP",
+      "Price": 658,
+      "Traded _date": "2025-08-14T14:44:57.248043"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.120Z",
+      "Script": "NBLD82",
+      "Price": 1092,
+      "Traded _date": "2025-12-15T14:36:46.427334"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.121Z",
+      "Script": "NBLD85",
+      "Price": 1187,
+      "Traded _date": "2025-11-16T12:37:31.078603"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.127Z",
+      "Script": "NICAP",
+      "Price": 193,
+      "Traded _date": "2025-11-12T11:44:56.400902"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.132Z",
+      "Script": "NILPO",
+      "Price": 436,
+      "Traded _date": "2025-10-08T14:37:23.836563"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.137Z",
+      "Script": "NMBPO",
+      "Price": 133.3,
+      "Traded _date": "2025-10-16T13:54:10.690583"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.138Z",
+      "Script": "NMFBSP",
+      "Price": 675,
+      "Traded _date": "2025-12-02T13:57:42.770062"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.761Z",
+      "Script": "DDBL",
+      "Price": 826.2,
+      "Traded _date": "2026-02-03T15:00:14.540+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.707Z",
+      "Script": "NMB50",
+      "Price": 10.4,
+      "Traded _date": "2026-02-03T15:00:14.541+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.798Z",
+      "Script": "SBI",
+      "Price": 400,
+      "Traded _date": "2026-02-03T15:00:14.543+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.712Z",
+      "Script": "PCBL",
+      "Price": 235.8,
+      "Traded _date": "2026-02-03T15:00:14.567+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.689Z",
+      "Script": "KDL",
+      "Price": 891,
+      "Traded _date": "2026-02-03T15:00:14.571+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.822Z",
+      "Script": "SHINE",
+      "Price": 403,
+      "Traded _date": "2026-02-03T15:00:14.573+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.683Z",
+      "Script": "SJCL",
+      "Price": 297,
+      "Traded _date": "2026-02-03T15:00:14.576+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.658Z",
+      "Script": "CBBL",
+      "Price": 933,
+      "Traded _date": "2026-02-03T15:00:14.589+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.709Z",
+      "Script": "GMLI",
+      "Price": 1780,
+      "Traded _date": "2026-02-03T15:00:14.596+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.644Z",
+      "Script": "UPPER",
+      "Price": 183,
+      "Traded _date": "2026-02-03T15:00:14.401+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.767Z",
+      "Script": "MHCL",
+      "Price": 389,
+      "Traded _date": "2026-02-03T15:00:14.410+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.231Z",
+      "Script": "SIFCPO",
+      "Price": 286,
+      "Traded _date": "2026-01-05T15:00:10.864+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.751Z",
+      "Script": "RAWA",
+      "Price": 790,
+      "Traded _date": "2026-02-03T15:00:14.419+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.757Z",
+      "Script": "KPCL",
+      "Price": 540,
+      "Traded _date": "2026-02-03T15:00:14.433+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.691Z",
+      "Script": "KKHC",
+      "Price": 229.2,
+      "Traded _date": "2026-02-03T15:00:14.449+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.825Z",
+      "Script": "OHL",
+      "Price": 730,
+      "Traded _date": "2026-02-03T15:00:14.461+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.809Z",
+      "Script": "GRDBL",
+      "Price": 1163,
+      "Traded _date": "2026-02-03T15:00:14.463+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.741Z",
+      "Script": "SPC",
+      "Price": 517,
+      "Traded _date": "2026-02-03T15:00:14.469+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.788Z",
+      "Script": "HIMSTAR",
+      "Price": 1065.9,
+      "Traded _date": "2026-02-03T15:00:14.472+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.665Z",
+      "Script": "NIFRA",
+      "Price": 261.7,
+      "Traded _date": "2026-02-03T15:00:14.476+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.687Z",
+      "Script": "NMIC",
+      "Price": 1330.1,
+      "Traded _date": "2026-02-03T15:00:14.477+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.667Z",
+      "Script": "NLIC",
+      "Price": 763,
+      "Traded _date": "2026-02-03T15:00:14.480+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.803Z",
+      "Script": "RLFL",
+      "Price": 452.2,
+      "Traded _date": "2026-02-03T15:00:14.487+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.754Z",
+      "Script": "HATHY",
+      "Price": 914,
+      "Traded _date": "2026-02-03T15:00:14.489+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.750Z",
+      "Script": "TPC",
+      "Price": 395,
+      "Traded _date": "2026-02-03T15:00:14.496+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.850Z",
+      "Script": "AVYAN",
+      "Price": 948.9,
+      "Traded _date": "2026-02-03T15:00:14.503+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.755Z",
+      "Script": "SMATA",
+      "Price": 788.1,
+      "Traded _date": "2026-02-03T15:00:14.504+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.663Z",
+      "Script": "API",
+      "Price": 296.5,
+      "Traded _date": "2026-02-03T15:00:14.521+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.825Z",
+      "Script": "NLICL",
+      "Price": 584.4,
+      "Traded _date": "2026-02-03T15:00:14.526+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.735Z",
+      "Script": "CHCL",
+      "Price": 469,
+      "Traded _date": "2026-02-03T15:00:14.537+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.832Z",
+      "Script": "SFEF",
+      "Price": 9.75,
+      "Traded _date": "2026-02-03T15:00:14.676+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.835Z",
+      "Script": "NIMBPO",
+      "Price": 157,
+      "Traded _date": "2026-02-03T15:00:14.681+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.241Z",
+      "Script": "SRBLD83",
+      "Price": 1060,
+      "Traded _date": "2026-01-27T15:00:14.393+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.081Z",
+      "Script": "ICFCD83",
+      "Price": 1119.9,
+      "Traded _date": "2026-01-28T15:10:13.746+05:45"
+    },
+    {
+      "created_at": "2026-01-06T08:30:11.639Z",
+      "Script": "SLBBLP",
+      "Price": 453,
+      "Traded _date": "2026-01-21T15:10:17.695+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.826Z",
+      "Script": "NIFRAGED",
+      "Price": 1016.4,
+      "Traded _date": "2026-02-02T15:10:13.440+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.766Z",
+      "Script": "AKPL",
+      "Price": 265,
+      "Traded _date": "2026-02-03T15:00:14.398+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.650Z",
+      "Script": "TTL",
+      "Price": 990,
+      "Traded _date": "2026-02-03T15:00:14.412+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.636Z",
+      "Script": "SHIVM",
+      "Price": 608,
+      "Traded _date": "2026-02-03T15:00:14.413+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.734Z",
+      "Script": "SRLI",
+      "Price": 392.8,
+      "Traded _date": "2026-02-03T15:00:14.425+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.727Z",
+      "Script": "SNLI",
+      "Price": 466,
+      "Traded _date": "2026-02-03T15:00:14.485+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.713Z",
+      "Script": "SGIC",
+      "Price": 476,
+      "Traded _date": "2026-02-03T15:00:14.501+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.746Z",
+      "Script": "SIFC",
+      "Price": 622,
+      "Traded _date": "2026-02-03T15:00:14.513+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.238Z",
+      "Script": "SMPDAP",
+      "Price": 518,
+      "Traded _date": "2025-11-13T14:41:51.159488"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.239Z",
+      "Script": "SNMAPO",
+      "Price": 167,
+      "Traded _date": "2025-10-12T12:12:40.989787"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.242Z",
+      "Script": "SRLIP",
+      "Price": 200,
+      "Traded _date": "2025-10-19T14:39:55.418398"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.791Z",
+      "Script": "JBBL",
+      "Price": 333.6,
+      "Traded _date": "2026-02-03T15:00:14.515+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.758Z",
+      "Script": "HIDCL",
+      "Price": 261.9,
+      "Traded _date": "2026-02-03T15:00:14.530+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.823Z",
+      "Script": "ICFCD88",
+      "Price": 1120,
+      "Traded _date": "2026-02-03T15:00:14.537+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.715Z",
+      "Script": "CLI",
+      "Price": 465.2,
+      "Traded _date": "2026-02-03T15:00:14.543+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.790Z",
+      "Script": "CHL",
+      "Price": 277,
+      "Traded _date": "2026-02-03T15:00:14.547+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.829Z",
+      "Script": "BGWT",
+      "Price": 766.2,
+      "Traded _date": "2026-02-03T15:00:14.566+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.765Z",
+      "Script": "SARBTM",
+      "Price": 859,
+      "Traded _date": "2026-02-03T15:00:14.590+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.819Z",
+      "Script": "NIBSF2",
+      "Price": 9.54,
+      "Traded _date": "2026-02-03T15:00:14.593+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.805Z",
+      "Script": "NLG",
+      "Price": 670.2,
+      "Traded _date": "2026-02-03T15:00:14.598+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.780Z",
+      "Script": "H8020",
+      "Price": 11.57,
+      "Traded _date": "2026-02-03T15:00:14.609+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.833Z",
+      "Script": "NIBLSTF",
+      "Price": 9.23,
+      "Traded _date": "2026-02-03T15:00:14.620+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.808Z",
+      "Script": "NUBL",
+      "Price": 712.1,
+      "Traded _date": "2026-02-03T15:00:14.632+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.689Z",
+      "Script": "BNT",
+      "Price": 11810,
+      "Traded _date": "2026-02-03T15:00:14.641+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.846Z",
+      "Script": "KSY",
+      "Price": 9.49,
+      "Traded _date": "2026-02-03T15:00:14.661+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.133Z",
+      "Script": "NIMBD90",
+      "Price": 1231,
+      "Traded _date": "2026-02-03T15:00:14.673+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.034Z",
+      "Script": "GBLBS",
+      "Price": 767.1,
+      "Traded _date": "2026-02-03T15:00:14.600+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.245Z",
+      "Script": "SWMFPO",
+      "Price": 382,
+      "Traded _date": "2026-01-13T15:00:09.479+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.143Z",
+      "Script": "PBD84",
+      "Price": 1120,
+      "Traded _date": "2026-02-02T15:10:13.442+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.700Z",
+      "Script": "PMLI",
+      "Price": 508,
+      "Traded _date": "2026-02-03T15:00:14.402+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.729Z",
+      "Script": "EBL",
+      "Price": 665.2,
+      "Traded _date": "2026-02-03T15:00:14.403+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.731Z",
+      "Script": "RFPL",
+      "Price": 424,
+      "Traded _date": "2026-02-03T15:00:14.409+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.680Z",
+      "Script": "NRM",
+      "Price": 428,
+      "Traded _date": "2026-02-03T15:00:14.411+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.686Z",
+      "Script": "HDHPC",
+      "Price": 197,
+      "Traded _date": "2026-02-03T15:00:14.416+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.739Z",
+      "Script": "ICFC",
+      "Price": 653.1,
+      "Traded _date": "2026-02-03T15:00:14.417+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.641Z",
+      "Script": "BANDIPUR",
+      "Price": 1125,
+      "Traded _date": "2026-02-03T15:00:14.418+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.669Z",
+      "Script": "HBL",
+      "Price": 188.4,
+      "Traded _date": "2026-02-03T15:00:14.423+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.740Z",
+      "Script": "CGH",
+      "Price": 891,
+      "Traded _date": "2026-02-03T15:00:14.435+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.765Z",
+      "Script": "PMHPL",
+      "Price": 347,
+      "Traded _date": "2026-02-03T15:00:14.436+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.248Z",
+      "Script": "UAILPO",
+      "Price": 251,
+      "Traded _date": "2025-10-14T11:52:25.4622"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.252Z",
+      "Script": "UNLBP",
+      "Price": 1211,
+      "Traded _date": "2025-04-01T13:00:47.828909"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.254Z",
+      "Script": "VLBSPO",
+      "Price": 458,
+      "Traded _date": "2025-07-13T13:25:53.223905"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.255Z",
+      "Script": "WNLBP",
+      "Price": 1138,
+      "Traded _date": "2025-10-13T13:54:01.551779"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.824Z",
+      "Script": "SWASTIK",
+      "Price": 2990,
+      "Traded _date": "2026-02-03T15:00:14.437+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.722Z",
+      "Script": "DORDI",
+      "Price": 280,
+      "Traded _date": "2026-02-03T15:00:14.438+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.706Z",
+      "Script": "MBJC",
+      "Price": 284.8,
+      "Traded _date": "2026-02-03T15:00:14.449+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.679Z",
+      "Script": "UMHL",
+      "Price": 628,
+      "Traded _date": "2026-02-03T15:00:14.459+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.799Z",
+      "Script": "GUFL",
+      "Price": 567.5,
+      "Traded _date": "2026-02-03T15:00:14.464+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.764Z",
+      "Script": "LEC",
+      "Price": 208.9,
+      "Traded _date": "2026-02-03T15:00:14.466+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.670Z",
+      "Script": "HDL",
+      "Price": 1139,
+      "Traded _date": "2026-02-03T15:00:14.471+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.694Z",
+      "Script": "NRIC",
+      "Price": 1245,
+      "Traded _date": "2026-02-03T15:00:14.473+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.722Z",
+      "Script": "SHPC",
+      "Price": 535.2,
+      "Traded _date": "2026-02-03T15:00:14.491+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.654Z",
+      "Script": "GBIME",
+      "Price": 226.1,
+      "Traded _date": "2026-02-03T15:00:14.516+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.724Z",
+      "Script": "MEN",
+      "Price": 582,
+      "Traded _date": "2026-02-03T15:00:14.546+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.630Z",
+      "Script": "ILI",
+      "Price": 441,
+      "Traded _date": "2026-02-03T15:00:14.556+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.696Z",
+      "Script": "BUNGAL",
+      "Price": 720,
+      "Traded _date": "2026-02-03T15:00:14.559+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.703Z",
+      "Script": "DHEL",
+      "Price": 789,
+      "Traded _date": "2026-02-03T15:00:14.387+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.123Z",
+      "Script": "NIBD2082",
+      "Price": 1017.1,
+      "Traded _date": "2026-02-02T15:10:13.418+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.101Z",
+      "Script": "MATRIP",
+      "Price": 534.1,
+      "Traded _date": "2026-01-21T15:10:17.710+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.787Z",
+      "Script": "RHGCL",
+      "Price": 282.9,
+      "Traded _date": "2026-02-03T15:00:14.432+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.676Z",
+      "Script": "SMHL",
+      "Price": 498,
+      "Traded _date": "2026-02-03T15:00:14.434+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.700Z",
+      "Script": "CREST",
+      "Price": 1427,
+      "Traded _date": "2026-02-03T15:00:14.448+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.715Z",
+      "Script": "NABIL",
+      "Price": 498,
+      "Traded _date": "2026-02-03T15:00:14.452+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.720Z",
+      "Script": "SICL",
+      "Price": 624,
+      "Traded _date": "2026-02-03T15:00:14.457+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.677Z",
+      "Script": "PRVU",
+      "Price": 183.7,
+      "Traded _date": "2026-02-03T15:00:14.479+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.691Z",
+      "Script": "UPCL",
+      "Price": 372,
+      "Traded _date": "2026-02-03T15:00:14.486+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.753Z",
+      "Script": "NRN",
+      "Price": 1540,
+      "Traded _date": "2026-02-03T15:00:14.489+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.745Z",
+      "Script": "SHEL",
+      "Price": 287.1,
+      "Traded _date": "2026-02-03T15:00:14.493+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.699Z",
+      "Script": "JHAPA",
+      "Price": 1460,
+      "Traded _date": "2026-02-03T15:00:14.497+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.719Z",
+      "Script": "BHPL",
+      "Price": 568.9,
+      "Traded _date": "2026-02-03T15:00:14.506+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.710Z",
+      "Script": "PPCL",
+      "Price": 374.6,
+      "Traded _date": "2026-02-03T15:00:14.517+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.725Z",
+      "Script": "FOWAD",
+      "Price": 1071,
+      "Traded _date": "2026-02-03T15:00:14.523+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.754Z",
+      "Script": "TVCL",
+      "Price": 544,
+      "Traded _date": "2026-02-03T15:00:14.524+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.737Z",
+      "Script": "ADBL",
+      "Price": 297.9,
+      "Traded _date": "2026-02-03T15:00:14.545+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.821Z",
+      "Script": "CKHL",
+      "Price": 725.5,
+      "Traded _date": "2026-02-03T15:00:14.549+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.792Z",
+      "Script": "SBL",
+      "Price": 382,
+      "Traded _date": "2026-02-03T15:00:14.551+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.660Z",
+      "Script": "MKCL",
+      "Price": 1396,
+      "Traded _date": "2026-02-03T15:00:14.552+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.703Z",
+      "Script": "CFCL",
+      "Price": 552.3,
+      "Traded _date": "2026-02-03T15:00:14.565+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.730Z",
+      "Script": "USLB",
+      "Price": 1450,
+      "Traded _date": "2026-02-03T15:00:14.572+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.736Z",
+      "Script": "SIKLES",
+      "Price": 610.3,
+      "Traded _date": "2026-02-03T15:00:14.581+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.820Z",
+      "Script": "UHEWA",
+      "Price": 557.1,
+      "Traded _date": "2026-02-03T15:00:14.582+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.746Z",
+      "Script": "SCB",
+      "Price": 633,
+      "Traded _date": "2026-02-03T15:00:14.607+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.749Z",
+      "Script": "NADEP",
+      "Price": 809,
+      "Traded _date": "2026-02-03T15:00:14.615+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.823Z",
+      "Script": "GHL",
+      "Price": 227.1,
+      "Traded _date": "2026-02-03T15:00:14.509+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.780Z",
+      "Script": "SGHC",
+      "Price": 418.1,
+      "Traded _date": "2026-02-03T15:00:14.515+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.813Z",
+      "Script": "SMB",
+      "Price": 1916,
+      "Traded _date": "2026-02-03T15:00:14.529+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.788Z",
+      "Script": "SKBBL",
+      "Price": 764.4,
+      "Traded _date": "2026-02-03T15:00:14.553+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.690Z",
+      "Script": "SINDU",
+      "Price": 853.5,
+      "Traded _date": "2026-02-03T15:00:14.563+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.626Z",
+      "Script": "LSL",
+      "Price": 209,
+      "Traded _date": "2026-02-03T15:00:14.574+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.810Z",
+      "Script": "GLBSL",
+      "Price": 2019.6,
+      "Traded _date": "2026-02-03T15:00:14.587+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.781Z",
+      "Script": "IHL",
+      "Price": 558,
+      "Traded _date": "2026-02-03T15:00:14.636+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.184Z",
+      "Script": "RBBD2088",
+      "Price": 1049,
+      "Traded _date": "2026-02-03T15:00:14.683+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.219Z",
+      "Script": "SBLD2082",
+      "Price": 1045.1,
+      "Traded _date": "2026-01-06T15:00:12.419+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.096Z",
+      "Script": "LBLD86",
+      "Price": 1132,
+      "Traded _date": "2026-01-06T15:00:12.441+05:45"
+    },
+    {
+      "created_at": "2026-01-06T06:15:14.691Z",
+      "Script": "LBBLPO",
+      "Price": 261,
+      "Traded _date": "2026-01-06T15:00:12.482+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.684Z",
+      "Script": "BHCL",
+      "Price": 623,
+      "Traded _date": "2026-02-03T15:00:14.380+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.732Z",
+      "Script": "GLH",
+      "Price": 260,
+      "Traded _date": "2026-02-03T15:00:14.396+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.743Z",
+      "Script": "HIDCLP",
+      "Price": 189,
+      "Traded _date": "2026-02-03T15:00:14.399+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.704Z",
+      "Script": "SJLIC",
+      "Price": 441.9,
+      "Traded _date": "2026-02-03T15:00:14.404+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.672Z",
+      "Script": "HPPL",
+      "Price": 472,
+      "Traded _date": "2026-02-03T15:00:14.405+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.759Z",
+      "Script": "KSBBL",
+      "Price": 455,
+      "Traded _date": "2026-02-03T15:00:14.422+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.814Z",
+      "Script": "RADHI",
+      "Price": 836,
+      "Traded _date": "2026-02-03T15:00:14.428+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.719Z",
+      "Script": "NHPC",
+      "Price": 205,
+      "Traded _date": "2026-02-03T15:00:14.431+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.732Z",
+      "Script": "CHDC",
+      "Price": 2347,
+      "Traded _date": "2026-02-03T15:00:14.439+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.736Z",
+      "Script": "SSHL",
+      "Price": 189.5,
+      "Traded _date": "2026-02-03T15:00:14.440+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.705Z",
+      "Script": "MABEL",
+      "Price": 819,
+      "Traded _date": "2026-02-03T15:00:14.453+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.747Z",
+      "Script": "SPHL",
+      "Price": 579.9,
+      "Traded _date": "2026-02-03T15:00:14.458+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.733Z",
+      "Script": "BNHC",
+      "Price": 562,
+      "Traded _date": "2026-02-03T15:00:14.461+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.806Z",
+      "Script": "CIT",
+      "Price": 1758,
+      "Traded _date": "2026-02-03T15:00:14.474+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.692Z",
+      "Script": "BFC",
+      "Price": 479,
+      "Traded _date": "2026-02-03T15:00:14.475+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.759Z",
+      "Script": "CZBIL",
+      "Price": 195.2,
+      "Traded _date": "2026-02-03T15:00:14.490+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.782Z",
+      "Script": "NMB",
+      "Price": 235.9,
+      "Traded _date": "2026-02-03T15:00:14.492+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.695Z",
+      "Script": "HRL",
+      "Price": 846,
+      "Traded _date": "2026-02-03T15:00:14.498+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.766Z",
+      "Script": "SPIL",
+      "Price": 709,
+      "Traded _date": "2026-02-03T15:00:14.507+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.018Z",
+      "Script": "CIZBD90",
+      "Price": 1240,
+      "Traded _date": "2026-01-13T15:00:09.512+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.707Z",
+      "Script": "NICLBSL",
+      "Price": 569,
+      "Traded _date": "2026-02-03T15:00:14.400+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.633Z",
+      "Script": "SAIL",
+      "Price": 1525,
+      "Traded _date": "2026-02-03T15:00:14.408+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.728Z",
+      "Script": "PRIN",
+      "Price": 711,
+      "Traded _date": "2026-02-03T15:00:14.424+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.757Z",
+      "Script": "JOSHI",
+      "Price": 299.9,
+      "Traded _date": "2026-02-03T15:00:14.427+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.714Z",
+      "Script": "PHCL",
+      "Price": 286.2,
+      "Traded _date": "2026-02-03T15:00:14.428+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.718Z",
+      "Script": "AKJCL",
+      "Price": 321.7,
+      "Traded _date": "2026-02-03T15:00:14.441+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.710Z",
+      "Script": "GCIL",
+      "Price": 418.5,
+      "Traded _date": "2026-02-03T15:00:14.441+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.711Z",
+      "Script": "NGPL",
+      "Price": 417,
+      "Traded _date": "2026-02-03T15:00:14.475+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.762Z",
+      "Script": "SMJC",
+      "Price": 497,
+      "Traded _date": "2026-02-03T15:00:14.484+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.816Z",
+      "Script": "MLBL",
+      "Price": 369,
+      "Traded _date": "2026-02-03T15:00:14.497+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.805Z",
+      "Script": "NWCL",
+      "Price": 923.1,
+      "Traded _date": "2026-02-03T15:00:14.508+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.678Z",
+      "Script": "AHPC",
+      "Price": 264.1,
+      "Traded _date": "2026-02-03T15:00:14.542+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.794Z",
+      "Script": "SHLB",
+      "Price": 1629,
+      "Traded _date": "2026-02-03T15:00:14.556+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.799Z",
+      "Script": "LICN",
+      "Price": 846.1,
+      "Traded _date": "2026-02-03T15:00:14.564+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.810Z",
+      "Script": "VLBS",
+      "Price": 766,
+      "Traded _date": "2026-02-03T15:00:14.595+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.753Z",
+      "Script": "DLBS",
+      "Price": 1360,
+      "Traded _date": "2026-02-03T15:00:14.616+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.786Z",
+      "Script": "PRSF",
+      "Price": 11.2,
+      "Traded _date": "2026-02-03T15:00:14.625+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.846Z",
+      "Script": "HLICF",
+      "Price": 10.28,
+      "Traded _date": "2026-02-03T15:00:14.629+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.744Z",
+      "Script": "HLBSL",
+      "Price": 916.1,
+      "Traded _date": "2026-02-03T15:00:14.633+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.756Z",
+      "Script": "GSY",
+      "Price": 9.59,
+      "Traded _date": "2026-02-03T15:00:14.637+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.818Z",
+      "Script": "SMH",
+      "Price": 700,
+      "Traded _date": "2026-02-03T15:00:14.639+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.647Z",
+      "Script": "JSLBB",
+      "Price": 1164.1,
+      "Traded _date": "2026-02-03T15:00:14.642+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.839Z",
+      "Script": "NICSF",
+      "Price": 8.95,
+      "Traded _date": "2026-02-03T15:00:14.672+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.136Z",
+      "Script": "NMBD87/88",
+      "Price": 1080.1,
+      "Traded _date": "2026-02-03T15:00:14.685+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.033Z",
+      "Script": "GBILD86/87",
+      "Price": 1100,
+      "Traded _date": "2026-01-26T15:10:21.227+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.863Z",
+      "Script": "NCCD86",
+      "Price": 1130,
+      "Traded _date": "2026-01-29T15:10:13.197+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.029Z",
+      "Script": "EBLEB89",
+      "Price": 1080.3,
+      "Traded _date": "2026-02-01T15:10:15.293+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.102Z",
+      "Script": "MBLD2085",
+      "Price": 1131,
+      "Traded _date": "2026-02-01T15:10:15.297+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.851Z",
+      "Script": "NBBD2085",
+      "Price": 1150,
+      "Traded _date": "2026-01-29T15:10:13.207+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.103Z",
+      "Script": "MBLD87",
+      "Price": 1123,
+      "Traded _date": "2026-01-27T15:00:14.673+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.095Z",
+      "Script": "LBBLD89",
+      "Price": 1270,
+      "Traded _date": "2026-01-27T15:00:14.701+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.748Z",
+      "Script": "SWMF",
+      "Price": 680,
+      "Traded _date": "2026-02-03T15:00:14.488+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.821Z",
+      "Script": "MERO",
+      "Price": 741,
+      "Traded _date": "2026-02-03T15:00:14.527+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.218Z",
+      "Script": "SBID89",
+      "Price": 1161,
+      "Traded _date": "2026-01-27T15:00:14.714+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.801Z",
+      "Script": "NMBHF2",
+      "Price": 9.41,
+      "Traded _date": "2026-02-03T15:00:14.548+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.675Z",
+      "Script": "SWBBL",
+      "Price": 735,
+      "Traded _date": "2026-02-03T15:00:14.558+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.784Z",
+      "Script": "MSHL",
+      "Price": 805,
+      "Traded _date": "2026-02-03T15:00:14.584+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.747Z",
+      "Script": "NMBMF",
+      "Price": 675.2,
+      "Traded _date": "2026-02-03T15:00:14.611+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.828Z",
+      "Script": "MMF1",
+      "Price": 9.68,
+      "Traded _date": "2026-02-03T15:00:14.612+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.791Z",
+      "Script": "MANDU",
+      "Price": 817.9,
+      "Traded _date": "2026-02-03T15:00:14.617+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.761Z",
+      "Script": "NBF3",
+      "Price": 9.55,
+      "Traded _date": "2026-02-03T15:00:14.634+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.830Z",
+      "Script": "UNLB",
+      "Price": 1860,
+      "Traded _date": "2026-02-03T15:00:14.634+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.049Z",
+      "Script": "HEIP",
+      "Price": 304.5,
+      "Traded _date": "2026-02-03T15:00:14.638+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.811Z",
+      "Script": "ENL",
+      "Price": 929,
+      "Traded _date": "2026-02-03T15:00:14.646+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.852Z",
+      "Script": "GBILD84/85",
+      "Price": 1165,
+      "Traded _date": "2026-02-03T15:00:14.647+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.854Z",
+      "Script": "NSIF2",
+      "Price": 10.6,
+      "Traded _date": "2026-02-03T15:00:14.658+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.836Z",
+      "Script": "RMF2",
+      "Price": 9.73,
+      "Traded _date": "2026-02-03T15:00:14.661+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.721Z",
+      "Script": "MLBS",
+      "Price": 1469,
+      "Traded _date": "2026-02-03T15:00:14.663+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.844Z",
+      "Script": "C30MF",
+      "Price": 9.77,
+      "Traded _date": "2026-02-03T15:00:14.668+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.144Z",
+      "Script": "PBD88",
+      "Price": 1192.6,
+      "Traded _date": "2026-02-03T15:00:14.686+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.858Z",
+      "Script": "NICAD2091",
+      "Price": 1040,
+      "Traded _date": "2026-02-03T15:00:14.688+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.843Z",
+      "Script": "SCBD",
+      "Price": 1230.9,
+      "Traded _date": "2026-01-13T15:00:09.457+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.118Z",
+      "Script": "NABILD87",
+      "Price": 1176,
+      "Traded _date": "2026-01-26T15:10:21.334+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.126Z",
+      "Script": "NICAD85/86",
+      "Price": 1108,
+      "Traded _date": "2026-02-01T15:10:15.305+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.114Z",
+      "Script": "MND84/85",
+      "Price": 1085.1,
+      "Traded _date": "2026-01-25T15:10:15.687+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.843Z",
+      "Script": "KSBBLD87",
+      "Price": 1140,
+      "Traded _date": "2026-01-19T15:45:13.478+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.129Z",
+      "Script": "NICD88",
+      "Price": 1081.1,
+      "Traded _date": "2026-01-27T15:00:14.703+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.145Z",
+      "Script": "PBLD87",
+      "Price": 1072.1,
+      "Traded _date": "2026-02-02T15:10:13.445+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.796Z",
+      "Script": "SYPNL",
+      "Price": 2125,
+      "Traded _date": "2026-02-03T15:00:14.382+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:19.107Z",
+      "Script": "MFLD85",
+      "Price": 1155,
+      "Traded _date": "2026-01-22T15:10:16.121+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.815Z",
+      "Script": "SAPDBL",
+      "Price": 887,
+      "Traded _date": "2026-02-03T15:00:14.383+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.848Z",
+      "Script": "MLBBL",
+      "Price": 1370.2,
+      "Traded _date": "2026-02-03T15:00:14.471+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.838Z",
+      "Script": "MHNL",
+      "Price": 268,
+      "Traded _date": "2026-02-03T15:00:14.483+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.797Z",
+      "Script": "BPCL",
+      "Price": 735,
+      "Traded _date": "2026-02-03T15:00:14.505+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.789Z",
+      "Script": "SADBL",
+      "Price": 409,
+      "Traded _date": "2026-02-03T15:00:14.518+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.790Z",
+      "Script": "MBLEF",
+      "Price": 10.02,
+      "Traded _date": "2026-02-03T15:00:14.539+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.845Z",
+      "Script": "MSLB",
+      "Price": 1324,
+      "Traded _date": "2026-02-03T15:00:14.586+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.827Z",
+      "Script": "KDBY",
+      "Price": 10.19,
+      "Traded _date": "2026-02-03T15:00:14.592+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.798Z",
+      "Script": "IGI",
+      "Price": 429,
+      "Traded _date": "2026-02-03T15:00:14.597+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.721Z",
+      "Script": "NICGF2",
+      "Price": 9.3,
+      "Traded _date": "2026-02-03T15:00:14.619+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.728Z",
+      "Script": "SLBSL",
+      "Price": 1328,
+      "Traded _date": "2026-02-03T15:00:14.630+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.854Z",
+      "Script": "SIGS3",
+      "Price": 10.25,
+      "Traded _date": "2026-02-03T15:00:14.643+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.842Z",
+      "Script": "NICFC",
+      "Price": 9.1,
+      "Traded _date": "2026-02-03T15:00:14.644+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.817Z",
+      "Script": "NESDO",
+      "Price": 1495,
+      "Traded _date": "2026-02-03T15:00:14.648+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.845Z",
+      "Script": "BNL",
+      "Price": 15500,
+      "Traded _date": "2026-02-03T15:00:14.651+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.802Z",
+      "Script": "SHINED",
+      "Price": 1117,
+      "Traded _date": "2026-02-03T15:00:14.653+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.839Z",
+      "Script": "PSF",
+      "Price": 10.92,
+      "Traded _date": "2026-02-03T15:00:14.655+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.840Z",
+      "Script": "GIBF1",
+      "Price": 10.72,
+      "Traded _date": "2026-02-03T15:00:14.657+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.806Z",
+      "Script": "NBF2",
+      "Price": 9.62,
+      "Traded _date": "2026-02-03T15:00:14.665+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.853Z",
+      "Script": "LVF2",
+      "Price": 9.5,
+      "Traded _date": "2026-02-03T15:00:14.666+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:54:18.890Z",
+      "Script": "ADBLD83",
+      "Price": 1050.7,
+      "Traded _date": "2026-02-03T15:00:14.667+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.866Z",
+      "Script": "SFMF",
+      "Price": 10.01,
+      "Traded _date": "2026-02-03T15:00:14.687+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.793Z",
+      "Script": "HBLD86",
+      "Price": 1130,
+      "Traded _date": "2026-01-29T15:10:13.160+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.867Z",
+      "Script": "BOKD86",
+      "Price": 1108,
+      "Traded _date": "2026-02-02T15:10:13.410+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.866Z",
+      "Script": "NIFRAUR85/86",
+      "Price": 1128,
+      "Traded _date": "2025-12-15 11:06:24.47275"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.865Z",
+      "Script": "SDBD87",
+      "Price": 1124,
+      "Traded _date": "2026-02-01T15:10:15.260+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.862Z",
+      "Script": "EBLD85",
+      "Price": 1200,
+      "Traded _date": "2026-02-02T15:10:13.426+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.865Z",
+      "Script": "SBID83",
+      "Price": 1065,
+      "Traded _date": "2026-02-02T15:10:13.444+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.828Z",
+      "Script": "HEI",
+      "Price": 511,
+      "Traded _date": "2026-02-03T15:00:14.407+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.829Z",
+      "Script": "NMFBS",
+      "Price": 1106.8,
+      "Traded _date": "2026-02-03T15:00:14.415+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.814Z",
+      "Script": "PBD85",
+      "Price": 1150,
+      "Traded _date": "2026-01-13T15:00:09.524+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.831Z",
+      "Script": "EDBL",
+      "Price": 601,
+      "Traded _date": "2026-02-03T15:00:14.481+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.811Z",
+      "Script": "MKJC",
+      "Price": 552.9,
+      "Traded _date": "2026-02-03T15:00:14.503+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.833Z",
+      "Script": "NMLBBL",
+      "Price": 634.5,
+      "Traded _date": "2026-02-03T15:00:14.510+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.793Z",
+      "Script": "GMFBS",
+      "Price": 1479,
+      "Traded _date": "2026-02-03T15:00:14.528+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.856Z",
+      "Script": "RBCL",
+      "Price": 14861,
+      "Traded _date": "2026-02-03T15:00:14.554+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.795Z",
+      "Script": "SFCL",
+      "Price": 390.1,
+      "Traded _date": "2026-02-03T15:00:14.560+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.786Z",
+      "Script": "RHPL",
+      "Price": 280,
+      "Traded _date": "2026-02-03T15:00:14.567+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.847Z",
+      "Script": "WNLB",
+      "Price": 1517,
+      "Traded _date": "2026-02-03T15:00:14.570+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.837Z",
+      "Script": "MKHL",
+      "Price": 826,
+      "Traded _date": "2026-02-03T15:00:14.576+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.838Z",
+      "Script": "TSHL",
+      "Price": 782,
+      "Traded _date": "2026-02-03T15:00:14.593+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.834Z",
+      "Script": "MNMF1",
+      "Price": 9.45,
+      "Traded _date": "2026-02-03T15:00:14.613+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.818Z",
+      "Script": "SMFBS",
+      "Price": 1690,
+      "Traded _date": "2026-02-03T15:00:14.614+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.836Z",
+      "Script": "GBIMESY2",
+      "Price": 9.04,
+      "Traded _date": "2026-02-03T15:00:14.627+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.840Z",
+      "Script": "BBC",
+      "Price": 4859,
+      "Traded _date": "2026-02-03T15:00:14.627+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.847Z",
+      "Script": "KMCDB",
+      "Price": 945,
+      "Traded _date": "2026-02-03T15:00:14.640+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.844Z",
+      "Script": "LUK",
+      "Price": 9.68,
+      "Traded _date": "2026-02-03T15:00:14.652+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.842Z",
+      "Script": "NIBLGF",
+      "Price": 9.12,
+      "Traded _date": "2026-02-03T15:00:14.655+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.861Z",
+      "Script": "RBCLPO",
+      "Price": 11790,
+      "Traded _date": "2026-02-03T15:00:14.664+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.855Z",
+      "Script": "SBLD2091",
+      "Price": 1085,
+      "Traded _date": "2026-02-03T15:00:14.671+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.850Z",
+      "Script": "CMF2",
+      "Price": 10.16,
+      "Traded _date": "2026-02-03T15:00:14.678+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.831Z",
+      "Script": "PBLD84",
+      "Price": 1102.5,
+      "Traded _date": "2026-02-03T15:00:14.682+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.860Z",
+      "Script": "SIGS2",
+      "Price": 9.66,
+      "Traded _date": "2026-02-02T15:10:13.384+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.860Z",
+      "Script": "CCBD88",
+      "Price": 1204,
+      "Traded _date": "2026-02-01T15:10:15.249+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.857Z",
+      "Script": "KBSH",
+      "Price": 1698,
+      "Traded _date": "2026-02-03T15:00:14.599+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.859Z",
+      "Script": "ANLB",
+      "Price": 6001,
+      "Traded _date": "2026-02-03T15:00:14.606+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.856Z",
+      "Script": "SLCF",
+      "Price": 9.75,
+      "Traded _date": "2026-02-03T15:00:14.635+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.864Z",
+      "Script": "NICBF",
+      "Price": 9.61,
+      "Traded _date": "2026-02-03T15:00:14.644+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.857Z",
+      "Script": "SAGF",
+      "Price": 9.82,
+      "Traded _date": "2026-02-03T15:00:14.668+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.861Z",
+      "Script": "NABILD2089",
+      "Price": 1052.8,
+      "Traded _date": "2026-02-03T15:00:14.670+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.862Z",
+      "Script": "SEF",
+      "Price": 9.62,
+      "Traded _date": "2026-02-03T15:00:14.674+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.855Z",
+      "Script": "GBBD85",
+      "Price": 1085,
+      "Traded _date": "2026-02-03T15:00:14.675+05:45"
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.859Z",
+      "Script": "UNL",
+      "Price": 47900,
+      "Traded _date": "2026-02-03T15:00:14.684+05:45"
+    }
+  ]
 }
