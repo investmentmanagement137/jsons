@@ -1,5 +1,13 @@
 {
   "json": {
-    "error": "Scraping failed: Request failed with status code 503"
+    "date": "03-Feb-2026",
+    "gold_hallmark_tola": 286600,
+    "gold_tajabi_tola": 283700,
+    "silver_tola": 5200,
+    "gold_hallmark_10_gram": 245715,
+    "gold_tajabi_10_gram": 243257.85,
+    "silver_10_gram": 4458,
+    "full_note": "Note: 1 tola = 100 lal = 11.66 grams. Gold-Silver information provided by Federation of nepal gold and silver dealers association. Daily updated on > 11 am NPT. Gold & Silver rate updated on 03-Feb-2026",
+    "last_updated_text": "03-Feb-2026"
   }
 }
