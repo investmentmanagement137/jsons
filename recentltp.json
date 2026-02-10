@@ -43,12 +43,12 @@
     {
       "created_at": "2026-02-05T05:48:35.871Z",
       "Script": "NEPSE Index",
-      "Price": 2663.36,
-      "Traded _date": "2026-02-10T14:00:02.207+05:45",
-      "Ltp change percent": -0.33,
+      "Price": 2664.52,
+      "Traded _date": "2026-02-10T14:15:02.459+05:45",
+      "Ltp change percent": -0.29,
       "turnover": 0,
       "previous close": 2672.4,
-      "change in value": -9.02
+      "change in value": -7.86
     },
     {
       "created_at": "2025-12-18T04:54:19.028Z",
