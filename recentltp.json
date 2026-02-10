@@ -1,16 +1,6 @@
 {
   "all recent price": [
     {
-      "created_at": "2025-12-18T04:58:02.702Z",
-      "Script": "SALICO",
-      "Price": 601.8,
-      "Traded _date": "2026-02-09T15:00:19.953+05:45",
-      "Ltp change percent": 0.3,
-      "turnover": 4950625.9,
-      "previous close": 600,
-      "change in value": 0
-    },
-    {
       "created_at": "2025-12-18T04:54:18.983Z",
       "Script": "ALBSLP",
       "Price": 549,
@@ -41,6 +31,26 @@
       "change in value": null
     },
     {
+      "created_at": "2025-12-18T04:58:02.815Z",
+      "Script": "MCHL",
+      "Price": 447,
+      "Traded _date": "2026-02-10T11:15:53.578+05:45",
+      "Ltp change percent": 1.82,
+      "turnover": 4470,
+      "previous close": 439,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.743Z",
+      "Script": "MEHL",
+      "Price": 458.9,
+      "Traded _date": "2026-02-10T11:15:53.580+05:45",
+      "Ltp change percent": 1.53,
+      "turnover": 4589,
+      "previous close": 452,
+      "change in value": 0
+    },
+    {
       "created_at": "2025-12-18T04:54:19.028Z",
       "Script": "EBLD86",
       "Price": 1111,
@@ -51,13 +61,13 @@
       "change in value": null
     },
     {
-      "created_at": "2025-12-18T04:58:02.712Z",
-      "Script": "OMPL",
-      "Price": 1381,
-      "Traded _date": "2026-02-09T15:00:19.375+05:45",
-      "Ltp change percent": -0.65,
-      "turnover": 30500850.4,
-      "previous close": 1390,
+      "created_at": "2026-01-18T06:01:11.171Z",
+      "Script": "RBBF40",
+      "Price": 9.69,
+      "Traded _date": "2026-02-10T11:15:53.581+05:45",
+      "Ltp change percent": 2,
+      "turnover": 969,
+      "previous close": 9.5,
       "change in value": 0
     },
     {
@@ -91,36 +101,6 @@
       "change in value": null
     },
     {
-      "created_at": "2025-12-18T04:58:02.708Z",
-      "Script": "HLI",
-      "Price": 365,
-      "Traded _date": "2026-02-09T15:00:19.386+05:45",
-      "Ltp change percent": -0.33,
-      "turnover": 26695642.3,
-      "previous close": 366.2,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.673Z",
-      "Script": "RIDI",
-      "Price": 316.3,
-      "Traded _date": "2026-02-09T15:00:19.493+05:45",
-      "Ltp change percent": 9.11,
-      "turnover": 769545390.8,
-      "previous close": 289.9,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.697Z",
-      "Script": "HHL",
-      "Price": 353,
-      "Traded _date": "2026-02-09T15:00:19.521+05:45",
-      "Ltp change percent": -1.94,
-      "turnover": 34100083.2,
-      "previous close": 360,
-      "change in value": 0
-    },
-    {
       "created_at": "2025-12-18T04:54:19.047Z",
       "Script": "HBLPO",
       "Price": 131,
@@ -151,26 +131,6 @@
       "change in value": null
     },
     {
-      "created_at": "2025-12-18T04:58:02.783Z",
-      "Script": "MBL",
-      "Price": 225,
-      "Traded _date": "2026-02-09T15:00:19.531+05:45",
-      "Ltp change percent": -2.17,
-      "turnover": 10663474.3,
-      "previous close": 230,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.817Z",
-      "Script": "PFL",
-      "Price": 375,
-      "Traded _date": "2026-02-09T15:00:19.533+05:45",
-      "Ltp change percent": -2.27,
-      "turnover": 7944821.3,
-      "previous close": 383.7,
-      "change in value": 0
-    },
-    {
       "created_at": "2026-02-05T05:48:35.871Z",
       "Script": "NEPSE Index",
       "Price": 2673.87,
@@ -181,43 +141,23 @@
       "change in value": 1.47
     },
     {
-      "created_at": "2025-12-18T04:58:02.804Z",
-      "Script": "MAKAR",
-      "Price": 558.5,
-      "Traded _date": "2026-02-09T15:00:19.539+05:45",
-      "Ltp change percent": -0.8,
-      "turnover": 4326910.5,
-      "previous close": 563,
+      "created_at": "2025-12-18T04:58:02.673Z",
+      "Script": "RIDI",
+      "Price": 317.1,
+      "Traded _date": "2026-02-10T11:15:53.228+05:45",
+      "Ltp change percent": 0.25,
+      "turnover": 42450397.3,
+      "previous close": 316.3,
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.729Z",
-      "Script": "BEDC",
-      "Price": 532,
-      "Traded _date": "2026-02-09T15:00:19.556+05:45",
-      "Ltp change percent": -1.48,
-      "turnover": 7507513.1,
-      "previous close": 540,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.800Z",
-      "Script": "SPL",
-      "Price": 855,
-      "Traded _date": "2026-02-09T15:00:19.569+05:45",
-      "Ltp change percent": 0.12,
-      "turnover": 8613487,
-      "previous close": 854,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.743Z",
-      "Script": "MEHL",
-      "Price": 447,
-      "Traded _date": "2026-02-09T15:00:19.596+05:45",
-      "Ltp change percent": -0.84,
-      "turnover": 9677681,
-      "previous close": 450.8,
+      "created_at": "2025-12-18T04:58:02.817Z",
+      "Script": "PFL",
+      "Price": 375.5,
+      "Traded _date": "2026-02-10T11:15:53.236+05:45",
+      "Ltp change percent": -0.92,
+      "turnover": 189666,
+      "previous close": 379,
       "change in value": 0
     },
     {
@@ -231,74 +171,144 @@
       "change in value": null
     },
     {
+      "created_at": "2025-12-18T04:58:02.800Z",
+      "Script": "SPL",
+      "Price": 774,
+      "Traded _date": "2026-02-10T11:15:53.239+05:45",
+      "Ltp change percent": -10,
+      "turnover": 13643113.5,
+      "previous close": 860,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.697Z",
+      "Script": "HHL",
+      "Price": 354,
+      "Traded _date": "2026-02-10T11:15:53.272+05:45",
+      "Ltp change percent": 0.28,
+      "turnover": 713603.5,
+      "previous close": 353,
+      "change in value": 0
+    },
+    {
       "created_at": "2025-12-18T04:58:02.763Z",
       "Script": "NICA",
-      "Price": 323,
-      "Traded _date": "2026-02-09T15:00:19.624+05:45",
-      "Ltp change percent": -1.73,
-      "turnover": 36994763,
-      "previous close": 328.7,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.714Z",
-      "Script": "CITY",
-      "Price": 484.9,
-      "Traded _date": "2026-02-09T15:00:19.655+05:45",
-      "Ltp change percent": -1.62,
-      "turnover": 8152357,
-      "previous close": 492.9,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.815Z",
-      "Script": "MCHL",
-      "Price": 439,
-      "Traded _date": "2026-02-09T15:00:19.659+05:45",
-      "Ltp change percent": -1.33,
-      "turnover": 2403225.5,
-      "previous close": 444.9,
+      "Price": 325,
+      "Traded _date": "2026-02-10T11:15:53.298+05:45",
+      "Ltp change percent": 0.62,
+      "turnover": 216597.8,
+      "previous close": 323,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.702Z",
       "Script": "SPDL",
-      "Price": 402,
-      "Traded _date": "2026-02-09T15:00:19.703+05:45",
-      "Ltp change percent": -1.47,
-      "turnover": 33202996.8,
-      "previous close": 408,
+      "Price": 410,
+      "Traded _date": "2026-02-10T11:15:53.323+05:45",
+      "Ltp change percent": -0.49,
+      "turnover": 3473952,
+      "previous close": 412,
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.849Z",
-      "Script": "ULBSL",
-      "Price": 3245,
-      "Traded _date": "2026-02-09T15:00:19.717+05:45",
-      "Ltp change percent": -1.03,
-      "turnover": 2017089.9,
-      "previous close": 3278.9,
+      "created_at": "2025-12-18T04:58:02.714Z",
+      "Script": "CITY",
+      "Price": 480,
+      "Traded _date": "2026-02-10T11:15:53.345+05:45",
+      "Ltp change percent": -1.01,
+      "turnover": 217020,
+      "previous close": 484.9,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.729Z",
+      "Script": "BEDC",
+      "Price": 539,
+      "Traded _date": "2026-02-10T11:15:53.369+05:45",
+      "Ltp change percent": 1.32,
+      "turnover": 113190,
+      "previous close": 532,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.712Z",
+      "Script": "OMPL",
+      "Price": 1382,
+      "Traded _date": "2026-02-10T11:15:53.388+05:45",
+      "Ltp change percent": -0.43,
+      "turnover": 41462,
+      "previous close": 1388,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.708Z",
+      "Script": "HLI",
+      "Price": 364.5,
+      "Traded _date": "2026-02-10T11:15:53.453+05:45",
+      "Ltp change percent": 0.11,
+      "turnover": 12376.2,
+      "previous close": 364.1,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.717Z",
       "Script": "MMKJL",
-      "Price": 583,
-      "Traded _date": "2026-02-09T15:00:19.748+05:45",
-      "Ltp change percent": -1.35,
-      "turnover": 11206860.1,
-      "previous close": 591,
+      "Price": 593,
+      "Traded _date": "2026-02-10T11:15:53.457+05:45",
+      "Ltp change percent": 1.19,
+      "turnover": 146449,
+      "previous close": 586,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.748Z",
       "Script": "SMPDA",
-      "Price": 874.5,
-      "Traded _date": "2026-02-09T15:00:19.752+05:45",
-      "Ltp change percent": -0.63,
-      "turnover": 958770.7,
-      "previous close": 880,
+      "Price": 878.6,
+      "Traded _date": "2026-02-10T11:15:53.474+05:45",
+      "Ltp change percent": 0.47,
+      "turnover": 9664.6,
+      "previous close": 874.5,
       "change in value": null
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.702Z",
+      "Script": "SALICO",
+      "Price": 602,
+      "Traded _date": "2026-02-10T11:15:53.476+05:45",
+      "Ltp change percent": 0.03,
+      "turnover": 39130,
+      "previous close": 601.8,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.849Z",
+      "Script": "ULBSL",
+      "Price": 3200,
+      "Traded _date": "2026-02-10T11:15:53.504+05:45",
+      "Ltp change percent": -0.78,
+      "turnover": 195783,
+      "previous close": 3225,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.783Z",
+      "Script": "MBL",
+      "Price": 225,
+      "Traded _date": "2026-02-10T11:15:53.541+05:45",
+      "Ltp change percent": 0,
+      "turnover": 277200,
+      "previous close": 225,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.804Z",
+      "Script": "MAKAR",
+      "Price": 555,
+      "Traded _date": "2026-02-10T11:15:53.545+05:45",
+      "Ltp change percent": -0.63,
+      "turnover": 138750,
+      "previous close": 558.5,
+      "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.741Z",
@@ -351,16 +361,6 @@
       "change in value": null
     },
     {
-      "created_at": "2026-01-18T06:01:11.171Z",
-      "Script": "RBBF40",
-      "Price": 9.5,
-      "Traded _date": "2026-02-09T15:00:19.921+05:45",
-      "Ltp change percent": 2.04,
-      "turnover": 38811,
-      "previous close": 9.31,
-      "change in value": 0
-    },
-    {
       "created_at": "2026-01-27T06:25:16.410Z",
       "Script": "NLICLP",
       "Price": 321,
@@ -391,83 +391,13 @@
       "change in value": null
     },
     {
-      "created_at": "2025-12-18T04:58:02.725Z",
-      "Script": "NTC",
-      "Price": 844,
-      "Traded _date": "2026-02-09T15:00:19.374+05:45",
-      "Ltp change percent": -0.71,
-      "turnover": 16197566,
-      "previous close": 850,
-      "change in value": 0
-    },
-    {
       "created_at": "2025-12-18T04:58:02.785Z",
       "Script": "PPL",
-      "Price": 385.6,
-      "Traded _date": "2026-02-09T15:00:19.397+05:45",
-      "Ltp change percent": -0.36,
-      "turnover": 73785091.2,
-      "previous close": 387,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.682Z",
-      "Script": "BHL",
-      "Price": 207,
-      "Traded _date": "2026-02-09T15:00:19.464+05:45",
-      "Ltp change percent": 1.17,
-      "turnover": 87374428.9,
-      "previous close": 204.6,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.726Z",
-      "Script": "CORBL",
-      "Price": 1690,
-      "Traded _date": "2026-02-09T15:00:19.552+05:45",
-      "Ltp change percent": -4.47,
-      "turnover": 19325368.4,
-      "previous close": 1769,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.713Z",
-      "Script": "SAHAS",
-      "Price": 556.2,
-      "Traded _date": "2026-02-09T15:00:19.579+05:45",
-      "Ltp change percent": -1.54,
-      "turnover": 46444437.1,
-      "previous close": 564.9,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.738Z",
-      "Script": "GFCL",
-      "Price": 650,
-      "Traded _date": "2026-02-09T15:00:19.587+05:45",
-      "Ltp change percent": -2.26,
-      "turnover": 17558205.2,
-      "previous close": 665,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.739Z",
-      "Script": "ALBSL",
-      "Price": 1105,
-      "Traded _date": "2026-02-09T15:00:19.676+05:45",
-      "Ltp change percent": -4.58,
-      "turnover": 23762082.2,
-      "previous close": 1158,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.701Z",
-      "Script": "KBL",
-      "Price": 183.5,
-      "Traded _date": "2026-02-09T15:00:19.728+05:45",
-      "Ltp change percent": -1.08,
-      "turnover": 55489130.3,
-      "previous close": 185.5,
+      "Price": 388,
+      "Traded _date": "2026-02-10T11:15:53.278+05:45",
+      "Ltp change percent": 0.67,
+      "turnover": 3104894,
+      "previous close": 385.4,
       "change in value": 0
     },
     {
@@ -478,6 +408,26 @@
       "Ltp change percent": -1.26,
       "turnover": 12081271.6,
       "previous close": 474.8,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.682Z",
+      "Script": "BHL",
+      "Price": 211,
+      "Traded _date": "2026-02-10T11:15:53.297+05:45",
+      "Ltp change percent": 1.49,
+      "turnover": 13666058.6,
+      "previous close": 207.9,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.738Z",
+      "Script": "GFCL",
+      "Price": 652,
+      "Traded _date": "2026-02-10T11:15:53.342+05:45",
+      "Ltp change percent": 0.31,
+      "turnover": 325410,
+      "previous close": 650,
       "change in value": 0
     },
     {
@@ -521,13 +471,73 @@
       "change in value": 0
     },
     {
+      "created_at": "2025-12-18T04:58:02.739Z",
+      "Script": "ALBSL",
+      "Price": 1127,
+      "Traded _date": "2026-02-10T11:15:53.362+05:45",
+      "Ltp change percent": -2,
+      "turnover": 236670,
+      "previous close": 1150,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.725Z",
+      "Script": "NTC",
+      "Price": 847,
+      "Traded _date": "2026-02-10T11:15:53.378+05:45",
+      "Ltp change percent": 0.36,
+      "turnover": 143890,
+      "previous close": 844,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.713Z",
+      "Script": "SAHAS",
+      "Price": 555,
+      "Traded _date": "2026-02-10T11:15:53.403+05:45",
+      "Ltp change percent": -0.05,
+      "turnover": 6486174.7,
+      "previous close": 555.3,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.701Z",
+      "Script": "KBL",
+      "Price": 183.5,
+      "Traded _date": "2026-02-10T11:15:53.445+05:45",
+      "Ltp change percent": -0.38,
+      "turnover": 187684,
+      "previous close": 184.2,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.726Z",
+      "Script": "CORBL",
+      "Price": 1678.1,
+      "Traded _date": "2026-02-10T11:15:53.454+05:45",
+      "Ltp change percent": -1.23,
+      "turnover": 270574,
+      "previous close": 1699,
+      "change in value": 0
+    },
+    {
       "created_at": "2025-12-18T04:58:02.697Z",
       "Script": "ACLBSL",
-      "Price": 968,
-      "Traded _date": "2026-02-09T15:00:19.906+05:45",
-      "Ltp change percent": -1.93,
-      "turnover": 829188.1,
-      "previous close": 987,
+      "Price": 1013.8,
+      "Traded _date": "2026-02-10T11:15:53.588+05:45",
+      "Ltp change percent": 1.99,
+      "turnover": 10138,
+      "previous close": 994,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.837Z",
+      "Script": "RMF1",
+      "Price": 9.66,
+      "Traded _date": "2026-02-10T11:15:53.589+05:45",
+      "Ltp change percent": 1.9,
+      "turnover": 1932,
+      "previous close": 9.48,
       "change in value": 0
     },
     {
@@ -589,16 +599,6 @@
       "turnover": 565124,
       "previous close": 1094,
       "change in value": null
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.837Z",
-      "Script": "RMF1",
-      "Price": 9.48,
-      "Traded _date": "2026-02-09T15:00:20.013+05:45",
-      "Ltp change percent": -0.63,
-      "turnover": 104796.52,
-      "previous close": 9.54,
-      "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:54:19.013Z",
@@ -701,36 +701,6 @@
       "change in value": null
     },
     {
-      "created_at": "2025-12-18T04:58:02.763Z",
-      "Script": "NIMB",
-      "Price": 190,
-      "Traded _date": "2026-02-09T15:00:19.402+05:45",
-      "Ltp change percent": -0.16,
-      "turnover": 20454634.8,
-      "previous close": 190.3,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.755Z",
-      "Script": "NFS",
-      "Price": 640,
-      "Traded _date": "2026-02-09T15:00:19.460+05:45",
-      "Ltp change percent": -3.03,
-      "turnover": 18846081.7,
-      "previous close": 660,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.764Z",
-      "Script": "GVL",
-      "Price": 488,
-      "Traded _date": "2026-02-09T15:00:19.510+05:45",
-      "Ltp change percent": -1.39,
-      "turnover": 31502261.8,
-      "previous close": 494.9,
-      "change in value": 0
-    },
-    {
       "created_at": "2025-12-18T04:58:02.688Z",
       "Script": "USHL",
       "Price": 759.9,
@@ -741,33 +711,13 @@
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.751Z",
-      "Script": "JBLB",
-      "Price": 1318,
-      "Traded _date": "2026-02-09T15:00:19.691+05:45",
-      "Ltp change percent": 0.02,
-      "turnover": 10312267,
-      "previous close": 1317.8,
-      "change in value": 0
-    },
-    {
       "created_at": "2025-12-18T04:58:02.716Z",
       "Script": "TAMOR",
-      "Price": 442.3,
-      "Traded _date": "2026-02-09T15:00:19.721+05:45",
-      "Ltp change percent": -1.27,
-      "turnover": 6288223.2,
-      "previous close": 448,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.816Z",
-      "Script": "NABBC",
-      "Price": 1677,
-      "Traded _date": "2026-02-09T15:00:19.740+05:45",
-      "Ltp change percent": -0.71,
-      "turnover": 215878489.3,
-      "previous close": 1689,
+      "Price": 448,
+      "Traded _date": "2026-02-10T11:15:53.289+05:45",
+      "Ltp change percent": 0.9,
+      "turnover": 1106052,
+      "previous close": 444,
       "change in value": 0
     },
     {
@@ -781,23 +731,73 @@
       "change in value": 0
     },
     {
+      "created_at": "2025-12-18T04:58:02.763Z",
+      "Script": "NIMB",
+      "Price": 189.1,
+      "Traded _date": "2026-02-10T11:15:53.363+05:45",
+      "Ltp change percent": -0.47,
+      "turnover": 931955,
+      "previous close": 190,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.755Z",
+      "Script": "NFS",
+      "Price": 645,
+      "Traded _date": "2026-02-10T11:15:53.383+05:45",
+      "Ltp change percent": 0.78,
+      "turnover": 379396,
+      "previous close": 640,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.764Z",
+      "Script": "GVL",
+      "Price": 487,
+      "Traded _date": "2026-02-10T11:15:53.421+05:45",
+      "Ltp change percent": -0.1,
+      "turnover": 769787,
+      "previous close": 487.5,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.816Z",
+      "Script": "NABBC",
+      "Price": 1675,
+      "Traded _date": "2026-02-10T11:15:53.432+05:45",
+      "Ltp change percent": -0.06,
+      "turnover": 201996.9,
+      "previous close": 1676,
+      "change in value": 0
+    },
+    {
       "created_at": "2025-12-18T04:58:02.813Z",
       "Script": "DOLTI",
-      "Price": 516.1,
-      "Traded _date": "2026-02-09T15:00:19.823+05:45",
-      "Ltp change percent": -1.88,
-      "turnover": 2709666.4,
-      "previous close": 526,
+      "Price": 536,
+      "Traded _date": "2026-02-10T11:15:53.461+05:45",
+      "Ltp change percent": 3.86,
+      "turnover": 129260,
+      "previous close": 516.1,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.751Z",
+      "Script": "JBLB",
+      "Price": 1339,
+      "Traded _date": "2026-02-10T11:15:53.464+05:45",
+      "Ltp change percent": 1.59,
+      "turnover": 2667919,
+      "previous close": 1318,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.674Z",
       "Script": "DHPL",
       "Price": 310,
-      "Traded _date": "2026-02-09T15:00:19.881+05:45",
-      "Ltp change percent": -2.79,
-      "turnover": 2804280.6,
-      "previous close": 318.9,
+      "Traded _date": "2026-02-10T11:15:53.491+05:45",
+      "Ltp change percent": -0.32,
+      "turnover": 203080,
+      "previous close": 311,
       "change in value": 0
     },
     {
@@ -961,183 +961,113 @@
       "change in value": null
     },
     {
-      "created_at": "2025-12-18T04:58:02.688Z",
-      "Script": "NBL",
-      "Price": 242,
-      "Traded _date": "2026-02-09T15:00:19.394+05:45",
-      "Ltp change percent": -1.14,
-      "turnover": 13503297.3,
-      "previous close": 244.8,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.822Z",
-      "Script": "MHL",
-      "Price": 518,
-      "Traded _date": "2026-02-09T15:00:19.432+05:45",
-      "Ltp change percent": -0.96,
-      "turnover": 17348011.4,
-      "previous close": 523,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.718Z",
-      "Script": "JFL",
-      "Price": 426,
-      "Traded _date": "2026-02-09T15:00:19.441+05:45",
-      "Ltp change percent": -3.2,
-      "turnover": 9513547.5,
-      "previous close": 440.1,
+      "created_at": "2025-12-18T04:58:02.730Z",
+      "Script": "PURE",
+      "Price": 1025,
+      "Traded _date": "2026-02-10T11:15:53.249+05:45",
+      "Ltp change percent": -0.19,
+      "turnover": 2109450,
+      "previous close": 1027,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.749Z",
       "Script": "MKHC",
-      "Price": 330,
-      "Traded _date": "2026-02-09T15:00:19.470+05:45",
-      "Ltp change percent": -5.71,
-      "turnover": 123884896.9,
-      "previous close": 350,
+      "Price": 342.9,
+      "Traded _date": "2026-02-10T11:15:53.270+05:45",
+      "Ltp change percent": 3.56,
+      "turnover": 2473939,
+      "previous close": 331.1,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.789Z",
+      "Script": "GBBL",
+      "Price": 390,
+      "Traded _date": "2026-02-10T11:15:53.279+05:45",
+      "Ltp change percent": -1.29,
+      "turnover": 1057271,
+      "previous close": 395.1,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.724Z",
       "Script": "BARUN",
-      "Price": 360,
-      "Traded _date": "2026-02-09T15:00:19.479+05:45",
-      "Ltp change percent": -2.09,
-      "turnover": 106783938.9,
-      "previous close": 367.7,
+      "Price": 361,
+      "Traded _date": "2026-02-10T11:15:53.305+05:45",
+      "Ltp change percent": -0.8,
+      "turnover": 4071413.7,
+      "previous close": 363.9,
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.782Z",
-      "Script": "HURJA",
-      "Price": 267.9,
-      "Traded _date": "2026-02-09T15:00:19.481+05:45",
-      "Ltp change percent": 3.2,
-      "turnover": 239885290.8,
-      "previous close": 259.6,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.668Z",
-      "Script": "SAGAR",
-      "Price": 2080.8,
-      "Traded _date": "2026-02-09T15:00:19.516+05:45",
-      "Ltp change percent": 0.04,
-      "turnover": 71082952.2,
-      "previous close": 2080,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.701Z",
-      "Script": "MNBBL",
-      "Price": 365.8,
-      "Traded _date": "2026-02-09T15:00:19.535+05:45",
-      "Ltp change percent": -1.53,
-      "turnover": 28494435.2,
-      "previous close": 371.5,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.731Z",
-      "Script": "RURU",
-      "Price": 667,
-      "Traded _date": "2026-02-09T15:00:19.558+05:45",
-      "Ltp change percent": -0.45,
-      "turnover": 13601792.5,
-      "previous close": 670,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.695Z",
-      "Script": "UAIL",
-      "Price": 470,
-      "Traded _date": "2026-02-09T15:00:19.598+05:45",
-      "Ltp change percent": -2.29,
-      "turnover": 22951253.7,
-      "previous close": 481,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.730Z",
-      "Script": "PURE",
-      "Price": 1027,
-      "Traded _date": "2026-02-09T15:00:19.622+05:45",
-      "Ltp change percent": -3.91,
-      "turnover": 30795226.2,
-      "previous close": 1068.8,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.800Z",
-      "Script": "VLUCL",
-      "Price": 570,
-      "Traded _date": "2026-02-09T15:00:19.626+05:45",
-      "Ltp change percent": -1.72,
-      "turnover": 9027370.5,
-      "previous close": 580,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.801Z",
-      "Script": "EHPL",
-      "Price": 423.6,
-      "Traded _date": "2026-02-09T15:00:19.672+05:45",
-      "Ltp change percent": -1.49,
-      "turnover": 20518791.1,
-      "previous close": 430,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.803Z",
-      "Script": "MDB",
-      "Price": 631,
-      "Traded _date": "2026-02-09T15:00:19.693+05:45",
-      "Ltp change percent": -0.47,
-      "turnover": 7130043.7,
-      "previous close": 634,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.820Z",
-      "Script": "SHL",
-      "Price": 497,
-      "Traded _date": "2026-02-09T15:00:19.707+05:45",
-      "Ltp change percent": -0.2,
-      "turnover": 11899668.9,
-      "previous close": 498,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.694Z",
-      "Script": "NICL",
-      "Price": 500,
-      "Traded _date": "2026-02-09T15:00:19.719+05:45",
-      "Ltp change percent": -1.96,
-      "turnover": 13132641.1,
-      "previous close": 510,
+      "created_at": "2025-12-18T04:58:02.688Z",
+      "Script": "NBL",
+      "Price": 241,
+      "Traded _date": "2026-02-10T11:15:53.307+05:45",
+      "Ltp change percent": -0.41,
+      "turnover": 154271,
+      "previous close": 242,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.698Z",
       "Script": "RNLI",
-      "Price": 458,
-      "Traded _date": "2026-02-09T15:00:19.742+05:45",
-      "Ltp change percent": -1.1,
-      "turnover": 12208275.4,
-      "previous close": 463.1,
+      "Price": 460.1,
+      "Traded _date": "2026-02-10T11:15:53.313+05:45",
+      "Ltp change percent": 0.26,
+      "turnover": 64970.4,
+      "previous close": 458.9,
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.756Z",
-      "Script": "MEL",
-      "Price": 298.6,
-      "Traded _date": "2026-02-09T15:00:19.763+05:45",
-      "Ltp change percent": 1.88,
-      "turnover": 19613305.3,
-      "previous close": 293.1,
+      "created_at": "2025-12-18T04:58:02.701Z",
+      "Script": "MNBBL",
+      "Price": 363,
+      "Traded _date": "2026-02-10T11:15:53.319+05:45",
+      "Ltp change percent": -0.77,
+      "turnover": 85192,
+      "previous close": 365.8,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.782Z",
+      "Script": "HURJA",
+      "Price": 268.2,
+      "Traded _date": "2026-02-10T11:15:53.330+05:45",
+      "Ltp change percent": -0.26,
+      "turnover": 7450290.4,
+      "previous close": 268.9,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.723Z",
+      "Script": "USHEC",
+      "Price": 470,
+      "Traded _date": "2026-02-10T11:15:53.348+05:45",
+      "Ltp change percent": -1.03,
+      "turnover": 582021,
+      "previous close": 474.9,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.803Z",
+      "Script": "MDB",
+      "Price": 632.8,
+      "Traded _date": "2026-02-10T11:15:53.359+05:45",
+      "Ltp change percent": 0.6,
+      "turnover": 1954746,
+      "previous close": 629,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.694Z",
+      "Script": "NICL",
+      "Price": 508,
+      "Traded _date": "2026-02-10T11:15:53.371+05:45",
+      "Ltp change percent": 1.8,
+      "turnover": 127000,
+      "previous close": 499,
       "change in value": 0
     },
     {
@@ -1151,43 +1081,123 @@
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.693Z",
-      "Script": "ALICL",
-      "Price": 474.5,
-      "Traded _date": "2026-02-09T15:00:19.790+05:45",
-      "Ltp change percent": -1.13,
-      "turnover": 32631294.8,
-      "previous close": 479.9,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.723Z",
-      "Script": "USHEC",
-      "Price": 471,
-      "Traded _date": "2026-02-09T15:00:19.806+05:45",
-      "Ltp change percent": -1.46,
-      "turnover": 14729079.7,
-      "previous close": 478,
+      "created_at": "2025-12-18T04:58:02.800Z",
+      "Script": "VLUCL",
+      "Price": 590,
+      "Traded _date": "2026-02-10T11:15:53.381+05:45",
+      "Ltp change percent": 3.51,
+      "turnover": 1525825,
+      "previous close": 570,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.685Z",
       "Script": "RSDC",
-      "Price": 658,
-      "Traded _date": "2026-02-09T15:00:19.837+05:45",
-      "Ltp change percent": -0.6,
-      "turnover": 8853791.8,
-      "previous close": 662,
+      "Price": 660.5,
+      "Traded _date": "2026-02-10T11:15:53.386+05:45",
+      "Ltp change percent": 0.38,
+      "turnover": 244899.6,
+      "previous close": 658,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.820Z",
+      "Script": "SHL",
+      "Price": 503.6,
+      "Traded _date": "2026-02-10T11:15:53.407+05:45",
+      "Ltp change percent": 1.33,
+      "turnover": 282109.1,
+      "previous close": 497,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.695Z",
+      "Script": "UAIL",
+      "Price": 464,
+      "Traded _date": "2026-02-10T11:15:53.408+05:45",
+      "Ltp change percent": -1.28,
+      "turnover": 9270,
+      "previous close": 470,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.756Z",
+      "Script": "MEL",
+      "Price": 297,
+      "Traded _date": "2026-02-10T11:15:53.415+05:45",
+      "Ltp change percent": -0.3,
+      "turnover": 131060,
+      "previous close": 297.9,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.668Z",
+      "Script": "SAGAR",
+      "Price": 2036,
+      "Traded _date": "2026-02-10T11:15:53.419+05:45",
+      "Ltp change percent": -0.78,
+      "turnover": 265629,
+      "previous close": 2052,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.801Z",
+      "Script": "EHPL",
+      "Price": 423,
+      "Traded _date": "2026-02-10T11:15:53.427+05:45",
+      "Ltp change percent": -0.14,
+      "turnover": 93043,
+      "previous close": 423.6,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.822Z",
+      "Script": "MHL",
+      "Price": 524.7,
+      "Traded _date": "2026-02-10T11:15:53.469+05:45",
+      "Ltp change percent": 1.88,
+      "turnover": 5247,
+      "previous close": 515,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.693Z",
+      "Script": "ALICL",
+      "Price": 475.3,
+      "Traded _date": "2026-02-10T11:15:53.479+05:45",
+      "Ltp change percent": 0.85,
+      "turnover": 92267,
+      "previous close": 471.3,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.760Z",
       "Script": "SANIMA",
-      "Price": 326,
-      "Traded _date": "2026-02-09T15:00:19.866+05:45",
-      "Ltp change percent": -0.91,
-      "turnover": 65919346.6,
-      "previous close": 329,
+      "Price": 324,
+      "Traded _date": "2026-02-10T11:15:53.481+05:45",
+      "Ltp change percent": -0.61,
+      "turnover": 45410,
+      "previous close": 326,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.731Z",
+      "Script": "RURU",
+      "Price": 656,
+      "Traded _date": "2026-02-10T11:15:53.527+05:45",
+      "Ltp change percent": -1.65,
+      "turnover": 17712,
+      "previous close": 667,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.718Z",
+      "Script": "JFL",
+      "Price": 431,
+      "Traded _date": "2026-02-10T11:15:53.567+05:45",
+      "Ltp change percent": -0.12,
+      "turnover": 86200,
+      "previous close": 431.5,
       "change in value": 0
     },
     {
@@ -1208,16 +1218,6 @@
       "Ltp change percent": -0.63,
       "turnover": 4236935.6,
       "previous close": 966.1,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.789Z",
-      "Script": "GBBL",
-      "Price": 395.2,
-      "Traded _date": "2026-02-09T15:00:19.910+05:45",
-      "Ltp change percent": -0.45,
-      "turnover": 11636217.9,
-      "previous close": 397,
       "change in value": 0
     },
     {
@@ -1301,23 +1301,13 @@
       "change in value": null
     },
     {
-      "created_at": "2025-12-18T04:58:02.795Z",
-      "Script": "ULHC",
-      "Price": 548.9,
-      "Traded _date": "2026-02-09T15:00:19.368+05:45",
-      "Ltp change percent": -0.02,
-      "turnover": 50696323,
-      "previous close": 549,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.787Z",
-      "Script": "UNHPL",
-      "Price": 489,
-      "Traded _date": "2026-02-09T15:00:19.396+05:45",
-      "Ltp change percent": -3.36,
-      "turnover": 119271963.7,
-      "previous close": 506,
+      "created_at": "2025-12-18T04:58:02.827Z",
+      "Script": "NIL",
+      "Price": 637,
+      "Traded _date": "2026-02-10T11:15:53.263+05:45",
+      "Ltp change percent": 1.76,
+      "turnover": 12630,
+      "previous close": 626,
       "change in value": 0
     },
     {
@@ -1331,66 +1321,6 @@
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.708Z",
-      "Script": "NYADI",
-      "Price": 395,
-      "Traded _date": "2026-02-09T15:00:19.434+05:45",
-      "Ltp change percent": -3.42,
-      "turnover": 11802026.8,
-      "previous close": 409,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.661Z",
-      "Script": "LBBL",
-      "Price": 473,
-      "Traded _date": "2026-02-09T15:00:19.456+05:45",
-      "Ltp change percent": -1.46,
-      "turnover": 41223544.5,
-      "previous close": 480,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.742Z",
-      "Script": "GMFIL",
-      "Price": 461,
-      "Traded _date": "2026-02-09T15:00:19.466+05:45",
-      "Ltp change percent": -3.35,
-      "turnover": 8070791,
-      "previous close": 477,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.681Z",
-      "Script": "SONA",
-      "Price": 425.2,
-      "Traded _date": "2026-02-09T15:00:19.500+05:45",
-      "Ltp change percent": -1.8,
-      "turnover": 28187252.4,
-      "previous close": 433,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.734Z",
-      "Script": "SANVI",
-      "Price": 837,
-      "Traded _date": "2026-02-09T15:00:19.518+05:45",
-      "Ltp change percent": -3.24,
-      "turnover": 57037167,
-      "previous close": 865,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.827Z",
-      "Script": "NIL",
-      "Price": 626,
-      "Traded _date": "2026-02-09T15:00:19.537+05:45",
-      "Ltp change percent": -0.62,
-      "turnover": 5838860.7,
-      "previous close": 629.9,
-      "change in value": 0
-    },
-    {
       "created_at": "2025-12-18T04:58:02.737Z",
       "Script": "SLBBL",
       "Price": 817.1,
@@ -1401,23 +1331,23 @@
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.726Z",
-      "Script": "BHDC",
-      "Price": 484,
-      "Traded _date": "2026-02-09T15:00:19.567+05:45",
-      "Ltp change percent": -2.62,
-      "turnover": 22567531.7,
-      "previous close": 497,
+      "created_at": "2025-12-18T04:58:02.787Z",
+      "Script": "UNHPL",
+      "Price": 494,
+      "Traded _date": "2026-02-10T11:15:53.302+05:45",
+      "Ltp change percent": 1.02,
+      "turnover": 19549115,
+      "previous close": 489,
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.709Z",
-      "Script": "MFIL",
-      "Price": 780.1,
-      "Traded _date": "2026-02-09T15:00:19.589+05:45",
-      "Ltp change percent": -2.49,
-      "turnover": 74294402,
-      "previous close": 800,
+      "created_at": "2025-12-18T04:58:02.734Z",
+      "Script": "SANVI",
+      "Price": 835,
+      "Traded _date": "2026-02-10T11:15:53.306+05:45",
+      "Ltp change percent": -0.02,
+      "turnover": 179247.5,
+      "previous close": 835.2,
       "change in value": 0
     },
     {
@@ -1433,11 +1363,81 @@
     {
       "created_at": "2025-12-18T04:58:02.804Z",
       "Script": "MPFL",
-      "Price": 634,
-      "Traded _date": "2026-02-09T15:00:19.796+05:45",
-      "Ltp change percent": -3.5,
-      "turnover": 16854616.5,
-      "previous close": 657,
+      "Price": 646.9,
+      "Traded _date": "2026-02-10T11:15:53.338+05:45",
+      "Ltp change percent": 2.68,
+      "turnover": 211933,
+      "previous close": 630,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.661Z",
+      "Script": "LBBL",
+      "Price": 473.2,
+      "Traded _date": "2026-02-10T11:15:53.374+05:45",
+      "Ltp change percent": 0.04,
+      "turnover": 1612010,
+      "previous close": 473,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.709Z",
+      "Script": "MFIL",
+      "Price": 777.5,
+      "Traded _date": "2026-02-10T11:15:53.394+05:45",
+      "Ltp change percent": -1.14,
+      "turnover": 499457.5,
+      "previous close": 786.5,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.795Z",
+      "Script": "ULHC",
+      "Price": 544,
+      "Traded _date": "2026-02-10T11:15:53.412+05:45",
+      "Ltp change percent": -1.27,
+      "turnover": 75811,
+      "previous close": 551,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.681Z",
+      "Script": "SONA",
+      "Price": 425.4,
+      "Traded _date": "2026-02-10T11:15:53.434+05:45",
+      "Ltp change percent": 0.05,
+      "turnover": 89331,
+      "previous close": 425.2,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.726Z",
+      "Script": "BHDC",
+      "Price": 484,
+      "Traded _date": "2026-02-10T11:15:53.436+05:45",
+      "Ltp change percent": 0,
+      "turnover": 481007,
+      "previous close": 484,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.708Z",
+      "Script": "NYADI",
+      "Price": 392.1,
+      "Traded _date": "2026-02-10T11:15:53.478+05:45",
+      "Ltp change percent": -1.73,
+      "turnover": 7841,
+      "previous close": 399,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.742Z",
+      "Script": "GMFIL",
+      "Price": 470.1,
+      "Traded _date": "2026-02-10T11:15:53.533+05:45",
+      "Ltp change percent": 1.97,
+      "turnover": 447620,
+      "previous close": 461,
       "change in value": 0
     },
     {
@@ -1601,33 +1601,113 @@
       "change in value": null
     },
     {
-      "created_at": "2025-12-18T04:58:02.757Z",
-      "Script": "KPCL",
-      "Price": 530,
-      "Traded _date": "2026-02-09T15:00:19.371+05:45",
-      "Ltp change percent": -2.73,
-      "turnover": 36849764.3,
-      "previous close": 544.9,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.750Z",
-      "Script": "TPC",
-      "Price": 396,
-      "Traded _date": "2026-02-09T15:00:19.372+05:45",
-      "Ltp change percent": 2.33,
-      "turnover": 131736452.7,
-      "previous close": 387,
+      "created_at": "2025-12-18T04:58:02.691Z",
+      "Script": "KKHC",
+      "Price": 292,
+      "Traded _date": "2026-02-10T11:15:53.232+05:45",
+      "Ltp change percent": -4.07,
+      "turnover": 14516335,
+      "previous close": 304.4,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.809Z",
       "Script": "GRDBL",
       "Price": 1095,
-      "Traded _date": "2026-02-09T15:00:19.403+05:45",
-      "Ltp change percent": -2.84,
-      "turnover": 25612569.9,
-      "previous close": 1127,
+      "Traded _date": "2026-02-10T11:15:53.281+05:45",
+      "Ltp change percent": 0.27,
+      "turnover": 1325802,
+      "previous close": 1092,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.644Z",
+      "Script": "UPPER",
+      "Price": 191,
+      "Traded _date": "2026-02-10T11:15:53.283+05:45",
+      "Ltp change percent": 1.06,
+      "turnover": 3065030.7,
+      "previous close": 189,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.751Z",
+      "Script": "RAWA",
+      "Price": 745,
+      "Traded _date": "2026-02-10T11:15:53.286+05:45",
+      "Ltp change percent": -0.27,
+      "turnover": 14771,
+      "previous close": 747,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.750Z",
+      "Script": "TPC",
+      "Price": 400,
+      "Traded _date": "2026-02-10T11:15:53.294+05:45",
+      "Ltp change percent": 1.27,
+      "turnover": 7495937.8,
+      "previous close": 395,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.788Z",
+      "Script": "HIMSTAR",
+      "Price": 953,
+      "Traded _date": "2026-02-10T11:15:53.325+05:45",
+      "Ltp change percent": -0.52,
+      "turnover": 3338655.6,
+      "previous close": 958,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.665Z",
+      "Script": "NIFRA",
+      "Price": 261,
+      "Traded _date": "2026-02-10T11:15:53.340+05:45",
+      "Ltp change percent": 0.08,
+      "turnover": 1694651,
+      "previous close": 260.8,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.689Z",
+      "Script": "KDL",
+      "Price": 942,
+      "Traded _date": "2026-02-10T11:15:53.356+05:45",
+      "Ltp change percent": 0.64,
+      "turnover": 327135,
+      "previous close": 936,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.663Z",
+      "Script": "API",
+      "Price": 297.4,
+      "Traded _date": "2026-02-10T11:15:53.372+05:45",
+      "Ltp change percent": 0.13,
+      "turnover": 353100,
+      "previous close": 297,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.767Z",
+      "Script": "MHCL",
+      "Price": 400,
+      "Traded _date": "2026-02-10T11:15:53.417+05:45",
+      "Ltp change percent": -0.5,
+      "turnover": 709700,
+      "previous close": 402,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.683Z",
+      "Script": "SJCL",
+      "Price": 293,
+      "Traded _date": "2026-02-10T11:15:53.446+05:45",
+      "Ltp change percent": -1.31,
+      "turnover": 24900,
+      "previous close": 296.9,
       "change in value": 0
     },
     {
@@ -1641,56 +1721,6 @@
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.741Z",
-      "Script": "SPC",
-      "Price": 513.1,
-      "Traded _date": "2026-02-09T15:00:19.429+05:45",
-      "Ltp change percent": -0.95,
-      "turnover": 6522448.6,
-      "previous close": 518,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.663Z",
-      "Script": "API",
-      "Price": 297.4,
-      "Traded _date": "2026-02-09T15:00:19.487+05:45",
-      "Ltp change percent": -1.49,
-      "turnover": 129974136.9,
-      "previous close": 301.9,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.751Z",
-      "Script": "RAWA",
-      "Price": 737,
-      "Traded _date": "2026-02-09T15:00:19.489+05:45",
-      "Ltp change percent": -3.5,
-      "turnover": 2900824.5,
-      "previous close": 763.7,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.665Z",
-      "Script": "NIFRA",
-      "Price": 261.2,
-      "Traded _date": "2026-02-09T15:00:19.525+05:45",
-      "Ltp change percent": -0.68,
-      "turnover": 44566840.6,
-      "previous close": 263,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.658Z",
-      "Script": "CBBL",
-      "Price": 928,
-      "Traded _date": "2026-02-09T15:00:19.542+05:45",
-      "Ltp change percent": -0.85,
-      "turnover": 9688116.5,
-      "previous close": 936,
-      "change in value": 0
-    },
-    {
       "created_at": "2025-12-18T04:58:02.825Z",
       "Script": "NLICL",
       "Price": 581,
@@ -1698,106 +1728,6 @@
       "Ltp change percent": -1.02,
       "turnover": 9380314.6,
       "previous close": 587,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.644Z",
-      "Script": "UPPER",
-      "Price": 189,
-      "Traded _date": "2026-02-09T15:00:19.618+05:45",
-      "Ltp change percent": 1.45,
-      "turnover": 53302523.8,
-      "previous close": 186.3,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.803Z",
-      "Script": "RLFL",
-      "Price": 452,
-      "Traded _date": "2026-02-09T15:00:19.628+05:45",
-      "Ltp change percent": -2.59,
-      "turnover": 10663504.8,
-      "previous close": 464,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.798Z",
-      "Script": "SBI",
-      "Price": 399.1,
-      "Traded _date": "2026-02-09T15:00:19.630+05:45",
-      "Ltp change percent": -3.13,
-      "turnover": 20152496.3,
-      "previous close": 412,
-      "change in value": null
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.691Z",
-      "Script": "KKHC",
-      "Price": 276,
-      "Traded _date": "2026-02-09T15:00:19.645+05:45",
-      "Ltp change percent": -0.29,
-      "turnover": 237288276.1,
-      "previous close": 276.8,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.788Z",
-      "Script": "HIMSTAR",
-      "Price": 957.9,
-      "Traded _date": "2026-02-09T15:00:19.657+05:45",
-      "Ltp change percent": -4.21,
-      "turnover": 29109597.3,
-      "previous close": 1000,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.767Z",
-      "Script": "MHCL",
-      "Price": 399.7,
-      "Traded _date": "2026-02-09T15:00:19.663+05:45",
-      "Ltp change percent": 0.55,
-      "turnover": 7881629.3,
-      "previous close": 397.5,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.683Z",
-      "Script": "SJCL",
-      "Price": 294,
-      "Traded _date": "2026-02-09T15:00:19.674+05:45",
-      "Ltp change percent": -0.84,
-      "turnover": 6326436,
-      "previous close": 296.5,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.667Z",
-      "Script": "NLIC",
-      "Price": 763.3,
-      "Traded _date": "2026-02-09T15:00:19.684+05:45",
-      "Ltp change percent": -0.26,
-      "turnover": 19107467.6,
-      "previous close": 765.3,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.687Z",
-      "Script": "NMIC",
-      "Price": 1380,
-      "Traded _date": "2026-02-09T15:00:19.705+05:45",
-      "Ltp change percent": -4.5,
-      "turnover": 35133172.6,
-      "previous close": 1445,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.689Z",
-      "Script": "KDL",
-      "Price": 936,
-      "Traded _date": "2026-02-09T15:00:19.726+05:45",
-      "Ltp change percent": -4.68,
-      "turnover": 17083398.1,
-      "previous close": 982,
       "change in value": 0
     },
     {
@@ -1811,16 +1741,6 @@
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.735Z",
-      "Script": "CHCL",
-      "Price": 468,
-      "Traded _date": "2026-02-09T15:00:19.738+05:45",
-      "Ltp change percent": -0.43,
-      "turnover": 13076872.2,
-      "previous close": 470,
-      "change in value": 0
-    },
-    {
       "created_at": "2025-12-18T04:58:02.755Z",
       "Script": "SMATA",
       "Price": 780,
@@ -1831,33 +1751,123 @@
       "change in value": 0
     },
     {
+      "created_at": "2025-12-18T04:58:02.687Z",
+      "Script": "NMIC",
+      "Price": 1380,
+      "Traded _date": "2026-02-10T11:15:53.466+05:45",
+      "Ltp change percent": 0,
+      "turnover": 838676,
+      "previous close": 1380,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.798Z",
+      "Script": "SBI",
+      "Price": 397.1,
+      "Traded _date": "2026-02-10T11:15:53.496+05:45",
+      "Ltp change percent": -1.93,
+      "turnover": 40504.2,
+      "previous close": 404.9,
+      "change in value": null
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.709Z",
+      "Script": "GMLI",
+      "Price": 1770,
+      "Traded _date": "2026-02-10T11:15:53.503+05:45",
+      "Ltp change percent": -0.11,
+      "turnover": 17700,
+      "previous close": 1772,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.757Z",
+      "Script": "KPCL",
+      "Price": 531.1,
+      "Traded _date": "2026-02-10T11:15:53.514+05:45",
+      "Ltp change percent": 0.02,
+      "turnover": 7966.5,
+      "previous close": 531,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.667Z",
+      "Script": "NLIC",
+      "Price": 759,
+      "Traded _date": "2026-02-10T11:15:53.516+05:45",
+      "Ltp change percent": -0.16,
+      "turnover": 68470,
+      "previous close": 760.2,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.741Z",
+      "Script": "SPC",
+      "Price": 510,
+      "Traded _date": "2026-02-10T11:15:53.539+05:45",
+      "Ltp change percent": -0.6,
+      "turnover": 595600,
+      "previous close": 513.1,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.735Z",
+      "Script": "CHCL",
+      "Price": 465.5,
+      "Traded _date": "2026-02-10T11:15:53.547+05:45",
+      "Ltp change percent": -0.53,
+      "turnover": 6982.5,
+      "previous close": 468,
+      "change in value": 0
+    },
+    {
       "created_at": "2025-12-18T04:58:02.754Z",
       "Script": "HATHY",
-      "Price": 932,
-      "Traded _date": "2026-02-09T15:00:19.794+05:45",
-      "Ltp change percent": -2.41,
-      "turnover": 13729535.6,
-      "previous close": 955,
+      "Price": 930,
+      "Traded _date": "2026-02-10T11:15:53.561+05:45",
+      "Ltp change percent": -0.21,
+      "turnover": 18600,
+      "previous close": 932,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.712Z",
       "Script": "PCBL",
-      "Price": 232,
-      "Traded _date": "2026-02-09T15:00:19.829+05:45",
-      "Ltp change percent": -1.44,
-      "turnover": 15766123.4,
-      "previous close": 235.4,
+      "Price": 230.5,
+      "Traded _date": "2026-02-10T11:15:53.568+05:45",
+      "Ltp change percent": -0.65,
+      "turnover": 26312,
+      "previous close": 232,
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.709Z",
-      "Script": "GMLI",
-      "Price": 1772,
-      "Traded _date": "2026-02-09T15:00:19.848+05:45",
-      "Ltp change percent": -1.56,
-      "turnover": 5979893.2,
-      "previous close": 1800,
+      "created_at": "2025-12-18T04:58:02.803Z",
+      "Script": "RLFL",
+      "Price": 468,
+      "Traded _date": "2026-02-10T11:15:53.572+05:45",
+      "Ltp change percent": 1.96,
+      "turnover": 4680,
+      "previous close": 459,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.850Z",
+      "Script": "AVYAN",
+      "Price": 960.1,
+      "Traded _date": "2026-02-10T11:15:53.573+05:45",
+      "Ltp change percent": -1.43,
+      "turnover": 9601,
+      "previous close": 974,
+      "change in value": null
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.658Z",
+      "Script": "CBBL",
+      "Price": 935,
+      "Traded _date": "2026-02-10T11:15:53.583+05:45",
+      "Ltp change percent": 0.54,
+      "turnover": 46750,
+      "previous close": 930,
       "change in value": 0
     },
     {
@@ -1869,16 +1879,6 @@
       "turnover": 12007279.9,
       "previous close": 846,
       "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.850Z",
-      "Script": "AVYAN",
-      "Price": 960,
-      "Traded _date": "2026-02-09T15:00:19.900+05:45",
-      "Ltp change percent": -0.62,
-      "turnover": 8274086.3,
-      "previous close": 966,
-      "change in value": null
     },
     {
       "created_at": "2025-12-18T04:58:02.707Z",
@@ -1901,83 +1901,23 @@
       "change in value": null
     },
     {
-      "created_at": "2025-12-18T04:58:02.790Z",
-      "Script": "CHL",
-      "Price": 287,
-      "Traded _date": "2026-02-09T15:00:19.474+05:45",
-      "Ltp change percent": -2.71,
-      "turnover": 42757219.2,
-      "previous close": 295,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.766Z",
-      "Script": "AKPL",
-      "Price": 265.2,
-      "Traded _date": "2026-02-09T15:00:19.506+05:45",
-      "Ltp change percent": -1.41,
-      "turnover": 96747841.7,
-      "previous close": 269,
-      "change in value": 0
-    },
-    {
       "created_at": "2025-12-18T04:58:02.713Z",
       "Script": "SGIC",
-      "Price": 479,
-      "Traded _date": "2026-02-09T15:00:19.577+05:45",
-      "Ltp change percent": -1.84,
-      "turnover": 9213361,
-      "previous close": 488,
+      "Price": 471.6,
+      "Traded _date": "2026-02-10T11:15:53.261+05:45",
+      "Ltp change percent": -0.72,
+      "turnover": 128935.7,
+      "previous close": 475,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.650Z",
       "Script": "TTL",
-      "Price": 915,
-      "Traded _date": "2026-02-09T15:00:19.602+05:45",
-      "Ltp change percent": -3.28,
-      "turnover": 84829146.1,
-      "previous close": 946,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.791Z",
-      "Script": "JBBL",
-      "Price": 330.1,
-      "Traded _date": "2026-02-09T15:00:19.616+05:45",
-      "Ltp change percent": -2.19,
-      "turnover": 32574015.6,
-      "previous close": 337.5,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.758Z",
-      "Script": "HIDCL",
-      "Price": 262,
-      "Traded _date": "2026-02-09T15:00:19.639+05:45",
-      "Ltp change percent": 0.69,
-      "turnover": 35631418.5,
-      "previous close": 260.2,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.715Z",
-      "Script": "CLI",
-      "Price": 465.1,
-      "Traded _date": "2026-02-09T15:00:19.643+05:45",
-      "Ltp change percent": -1.42,
-      "turnover": 14559760.7,
-      "previous close": 471.8,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.734Z",
-      "Script": "SRLI",
-      "Price": 387.3,
-      "Traded _date": "2026-02-09T15:00:19.649+05:45",
-      "Ltp change percent": -0.95,
-      "turnover": 11693495.8,
-      "previous close": 391,
+      "Price": 900.4,
+      "Traded _date": "2026-02-10T11:15:53.301+05:45",
+      "Ltp change percent": -1.38,
+      "turnover": 4597791.1,
+      "previous close": 913,
       "change in value": 0
     },
     {
@@ -1991,53 +1931,23 @@
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.636Z",
-      "Script": "SHIVM",
-      "Price": 612.8,
-      "Traded _date": "2026-02-09T15:00:19.715+05:45",
-      "Ltp change percent": -1.48,
-      "turnover": 89043451.3,
-      "previous close": 622,
+      "created_at": "2025-12-18T04:58:02.715Z",
+      "Script": "CLI",
+      "Price": 465,
+      "Traded _date": "2026-02-10T11:15:53.303+05:45",
+      "Ltp change percent": -0.02,
+      "turnover": 481109.8,
+      "previous close": 465.1,
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.765Z",
-      "Script": "SARBTM",
-      "Price": 867,
-      "Traded _date": "2026-02-09T15:00:19.723+05:45",
-      "Ltp change percent": -0.57,
-      "turnover": 5670685.8,
-      "previous close": 872,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.746Z",
-      "Script": "SIFC",
-      "Price": 588,
-      "Traded _date": "2026-02-09T15:00:19.730+05:45",
-      "Ltp change percent": -3.83,
-      "turnover": 53842103.1,
-      "previous close": 611.4,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.833Z",
-      "Script": "NIBLSTF",
-      "Price": 9.22,
-      "Traded _date": "2026-02-09T15:00:19.782+05:45",
-      "Ltp change percent": 1.21,
-      "turnover": 22897,
-      "previous close": 9.11,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.829Z",
-      "Script": "BGWT",
-      "Price": 773,
-      "Traded _date": "2026-02-09T15:00:19.809+05:45",
-      "Ltp change percent": -0.39,
-      "turnover": 3294650,
-      "previous close": 776,
+      "created_at": "2025-12-18T04:58:02.734Z",
+      "Script": "SRLI",
+      "Price": 388.1,
+      "Traded _date": "2026-02-10T11:15:53.321+05:45",
+      "Ltp change percent": 0.21,
+      "turnover": 26388.6,
+      "previous close": 387.3,
       "change in value": 0
     },
     {
@@ -2063,11 +1973,101 @@
     {
       "created_at": "2025-12-18T04:58:02.727Z",
       "Script": "SNLI",
-      "Price": 461.9,
-      "Traded _date": "2026-02-09T15:00:19.833+05:45",
-      "Ltp change percent": -0.69,
-      "turnover": 13115864,
-      "previous close": 465.1,
+      "Price": 459,
+      "Traded _date": "2026-02-10T11:15:53.326+05:45",
+      "Ltp change percent": -0.63,
+      "turnover": 53256,
+      "previous close": 461.9,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.791Z",
+      "Script": "JBBL",
+      "Price": 326.5,
+      "Traded _date": "2026-02-10T11:15:53.331+05:45",
+      "Ltp change percent": -0.91,
+      "turnover": 1196128.5,
+      "previous close": 329.5,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.746Z",
+      "Script": "SIFC",
+      "Price": 588,
+      "Traded _date": "2026-02-10T11:15:53.336+05:45",
+      "Ltp change percent": 0.07,
+      "turnover": 993610,
+      "previous close": 587.6,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.758Z",
+      "Script": "HIDCL",
+      "Price": 264,
+      "Traded _date": "2026-02-10T11:15:53.343+05:45",
+      "Ltp change percent": 0.76,
+      "turnover": 2716457.5,
+      "previous close": 262,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.636Z",
+      "Script": "SHIVM",
+      "Price": 615,
+      "Traded _date": "2026-02-10T11:15:53.361+05:45",
+      "Ltp change percent": 0.08,
+      "turnover": 2634348.5,
+      "previous close": 614.5,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.790Z",
+      "Script": "CHL",
+      "Price": 290,
+      "Traded _date": "2026-02-10T11:15:53.397+05:45",
+      "Ltp change percent": 0.73,
+      "turnover": 1164329,
+      "previous close": 287.9,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.765Z",
+      "Script": "SARBTM",
+      "Price": 861,
+      "Traded _date": "2026-02-10T11:15:53.462+05:45",
+      "Ltp change percent": -0.68,
+      "turnover": 906707,
+      "previous close": 866.9,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.766Z",
+      "Script": "AKPL",
+      "Price": 267.1,
+      "Traded _date": "2026-02-10T11:15:53.475+05:45",
+      "Ltp change percent": 0.07,
+      "turnover": 2081066.1,
+      "previous close": 266.9,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.829Z",
+      "Script": "BGWT",
+      "Price": 785.5,
+      "Traded _date": "2026-02-10T11:15:53.510+05:45",
+      "Ltp change percent": 1.99,
+      "turnover": 7855,
+      "previous close": 770.2,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.833Z",
+      "Script": "NIBLSTF",
+      "Price": 9.4,
+      "Traded _date": "2026-02-10T11:15:53.587+05:45",
+      "Ltp change percent": 1.95,
+      "turnover": 940,
+      "previous close": 9.22,
       "change in value": 0
     },
     {
@@ -2211,213 +2211,23 @@
       "change in value": null
     },
     {
-      "created_at": "2025-12-18T04:58:02.764Z",
-      "Script": "LEC",
-      "Price": 237.8,
-      "Traded _date": "2026-02-09T15:00:19.390+05:45",
-      "Ltp change percent": 7.8,
-      "turnover": 369334843.9,
-      "previous close": 220.6,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.722Z",
-      "Script": "SHPC",
-      "Price": 529,
-      "Traded _date": "2026-02-09T15:00:19.392+05:45",
-      "Ltp change percent": -1.21,
-      "turnover": 58252455.1,
-      "previous close": 535.5,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.694Z",
-      "Script": "NRIC",
-      "Price": 1275,
-      "Traded _date": "2026-02-09T15:00:19.399+05:45",
-      "Ltp change percent": -3.4,
-      "turnover": 94730138.1,
-      "previous close": 1319.9,
-      "change in value": 0
-    },
-    {
       "created_at": "2025-12-18T04:58:02.686Z",
       "Script": "HDHPC",
-      "Price": 211.5,
-      "Traded _date": "2026-02-09T15:00:19.405+05:45",
-      "Ltp change percent": 1.73,
-      "turnover": 164912900.2,
-      "previous close": 207.9,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.641Z",
-      "Script": "BANDIPUR",
-      "Price": 1015,
-      "Traded _date": "2026-02-09T15:00:19.408+05:45",
-      "Ltp change percent": -3.79,
-      "turnover": 181424153.6,
-      "previous close": 1055,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.680Z",
-      "Script": "NRM",
-      "Price": 426,
-      "Traded _date": "2026-02-09T15:00:19.409+05:45",
-      "Ltp change percent": -1.62,
-      "turnover": 16375664.4,
-      "previous close": 433,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.696Z",
-      "Script": "BUNGAL",
-      "Price": 658,
-      "Traded _date": "2026-02-09T15:00:19.436+05:45",
-      "Ltp change percent": -4.89,
-      "turnover": 27708251.1,
-      "previous close": 691.8,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.799Z",
-      "Script": "GUFL",
-      "Price": 567,
-      "Traded _date": "2026-02-09T15:00:19.438+05:45",
-      "Ltp change percent": -1.73,
-      "turnover": 17162381.6,
-      "previous close": 577,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.722Z",
-      "Script": "DORDI",
-      "Price": 289.9,
-      "Traded _date": "2026-02-09T15:00:19.468+05:45",
-      "Ltp change percent": -2.06,
-      "turnover": 66559299.5,
-      "previous close": 296,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.731Z",
-      "Script": "RFPL",
-      "Price": 403.2,
-      "Traded _date": "2026-02-09T15:00:19.502+05:45",
-      "Ltp change percent": -2.84,
-      "turnover": 74257995.7,
-      "previous close": 415,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.670Z",
-      "Script": "HDL",
-      "Price": 1138,
-      "Traded _date": "2026-02-09T15:00:19.565+05:45",
-      "Ltp change percent": -0.44,
-      "turnover": 56943430.9,
-      "previous close": 1143,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.706Z",
-      "Script": "MBJC",
-      "Price": 288,
-      "Traded _date": "2026-02-09T15:00:19.585+05:45",
-      "Ltp change percent": 0,
-      "turnover": 14076560.8,
-      "previous close": 288,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.679Z",
-      "Script": "UMHL",
-      "Price": 619,
-      "Traded _date": "2026-02-09T15:00:19.620+05:45",
-      "Ltp change percent": -2.67,
-      "turnover": 64300213.3,
-      "previous close": 636,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.669Z",
-      "Script": "HBL",
-      "Price": 188.2,
-      "Traded _date": "2026-02-09T15:00:19.647+05:45",
-      "Ltp change percent": -0.84,
-      "turnover": 18862951.6,
-      "previous close": 189.8,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.824Z",
-      "Script": "SWASTIK",
-      "Price": 2905,
-      "Traded _date": "2026-02-09T15:00:19.653+05:45",
-      "Ltp change percent": -1.29,
-      "turnover": 9718674.2,
-      "previous close": 2943,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.654Z",
-      "Script": "GBIME",
-      "Price": 225,
-      "Traded _date": "2026-02-09T15:00:19.661+05:45",
-      "Ltp change percent": -0.31,
-      "turnover": 20650580.9,
-      "previous close": 225.7,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.724Z",
-      "Script": "MEN",
-      "Price": 586.8,
-      "Traded _date": "2026-02-09T15:00:19.668+05:45",
-      "Ltp change percent": 0.29,
-      "turnover": 45273072.8,
-      "previous close": 585.1,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.739Z",
-      "Script": "ICFC",
-      "Price": 654.5,
-      "Traded _date": "2026-02-09T15:00:19.682+05:45",
-      "Ltp change percent": -1.56,
-      "turnover": 13284340.7,
-      "previous close": 664.9,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.740Z",
-      "Script": "CGH",
-      "Price": 848,
-      "Traded _date": "2026-02-09T15:00:19.709+05:45",
-      "Ltp change percent": -1.38,
-      "turnover": 63916925.1,
-      "previous close": 859.9,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.729Z",
-      "Script": "EBL",
-      "Price": 669,
-      "Traded _date": "2026-02-09T15:00:19.744+05:45",
-      "Ltp change percent": -0.15,
-      "turnover": 38570586.3,
-      "previous close": 670,
+      "Price": 214,
+      "Traded _date": "2026-02-10T11:15:53.243+05:45",
+      "Ltp change percent": 1.18,
+      "turnover": 12100054.5,
+      "previous close": 211.5,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.630Z",
       "Script": "ILI",
-      "Price": 437.3,
-      "Traded _date": "2026-02-09T15:00:19.746+05:45",
-      "Ltp change percent": -0.84,
-      "turnover": 5544414.7,
-      "previous close": 441,
+      "Price": 436,
+      "Traded _date": "2026-02-10T11:15:53.252+05:45",
+      "Ltp change percent": -0.32,
+      "turnover": 54452.6,
+      "previous close": 437.4,
       "change in value": 0
     },
     {
@@ -2431,23 +2241,213 @@
       "change in value": 0
     },
     {
+      "created_at": "2025-12-18T04:58:02.731Z",
+      "Script": "RFPL",
+      "Price": 407,
+      "Traded _date": "2026-02-10T11:15:53.253+05:45",
+      "Ltp change percent": 0.25,
+      "turnover": 2338847,
+      "previous close": 406,
+      "change in value": 0
+    },
+    {
       "created_at": "2025-12-18T04:58:02.765Z",
       "Script": "PMHPL",
-      "Price": 347,
-      "Traded _date": "2026-02-09T15:00:19.877+05:45",
-      "Ltp change percent": 0.03,
-      "turnover": 23434235.4,
-      "previous close": 346.9,
+      "Price": 350,
+      "Traded _date": "2026-02-10T11:15:53.255+05:45",
+      "Ltp change percent": 0.29,
+      "turnover": 214719,
+      "previous close": 349,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.764Z",
+      "Script": "LEC",
+      "Price": 243,
+      "Traded _date": "2026-02-10T11:15:53.256+05:45",
+      "Ltp change percent": 2.14,
+      "turnover": 36057709.4,
+      "previous close": 237.9,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.641Z",
+      "Script": "BANDIPUR",
+      "Price": 1007,
+      "Traded _date": "2026-02-10T11:15:53.264+05:45",
+      "Ltp change percent": -1.18,
+      "turnover": 3296576.5,
+      "previous close": 1019,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.696Z",
+      "Script": "BUNGAL",
+      "Price": 664,
+      "Traded _date": "2026-02-10T11:15:53.273+05:45",
+      "Ltp change percent": -0.9,
+      "turnover": 346839,
+      "previous close": 670,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.669Z",
+      "Script": "HBL",
+      "Price": 187.5,
+      "Traded _date": "2026-02-10T11:15:53.275+05:45",
+      "Ltp change percent": -0.37,
+      "turnover": 140903,
+      "previous close": 188.2,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.679Z",
+      "Script": "UMHL",
+      "Price": 623,
+      "Traded _date": "2026-02-10T11:15:53.309+05:45",
+      "Ltp change percent": 0.65,
+      "turnover": 3308995.3,
+      "previous close": 619,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.670Z",
+      "Script": "HDL",
+      "Price": 1140,
+      "Traded _date": "2026-02-10T11:15:53.317+05:45",
+      "Ltp change percent": 0.09,
+      "turnover": 2153273.5,
+      "previous close": 1139,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.654Z",
+      "Script": "GBIME",
+      "Price": 225,
+      "Traded _date": "2026-02-10T11:15:53.318+05:45",
+      "Ltp change percent": 0.18,
+      "turnover": 195432,
+      "previous close": 224.6,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.722Z",
+      "Script": "DORDI",
+      "Price": 290,
+      "Traded _date": "2026-02-10T11:15:53.327+05:45",
+      "Ltp change percent": 1.01,
+      "turnover": 1106904,
+      "previous close": 287.1,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.722Z",
+      "Script": "SHPC",
+      "Price": 528,
+      "Traded _date": "2026-02-10T11:15:53.333+05:45",
+      "Ltp change percent": -0.38,
+      "turnover": 579414,
+      "previous close": 530,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.824Z",
+      "Script": "SWASTIK",
+      "Price": 2870.1,
+      "Traded _date": "2026-02-10T11:15:53.389+05:45",
+      "Ltp change percent": -1.2,
+      "turnover": 28701,
+      "previous close": 2905,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.694Z",
+      "Script": "NRIC",
+      "Price": 1290,
+      "Traded _date": "2026-02-10T11:15:53.391+05:45",
+      "Ltp change percent": 1.18,
+      "turnover": 2406070.6,
+      "previous close": 1275,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.740Z",
+      "Script": "CGH",
+      "Price": 845,
+      "Traded _date": "2026-02-10T11:15:53.423+05:45",
+      "Ltp change percent": -0.35,
+      "turnover": 50460,
+      "previous close": 848,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.706Z",
+      "Script": "MBJC",
+      "Price": 289,
+      "Traded _date": "2026-02-10T11:15:53.431+05:45",
+      "Ltp change percent": 0,
+      "turnover": 37020,
+      "previous close": 289,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.729Z",
+      "Script": "EBL",
+      "Price": 670,
+      "Traded _date": "2026-02-10T11:15:53.438+05:45",
+      "Ltp change percent": 0,
+      "turnover": 71020,
+      "previous close": 670,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.700Z",
       "Script": "PMLI",
-      "Price": 496.2,
-      "Traded _date": "2026-02-09T15:00:19.902+05:45",
-      "Ltp change percent": -2.17,
-      "turnover": 4645585.7,
-      "previous close": 507.2,
+      "Price": 496,
+      "Traded _date": "2026-02-10T11:15:53.439+05:45",
+      "Ltp change percent": -0.6,
+      "turnover": 254219,
+      "previous close": 499,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.680Z",
+      "Script": "NRM",
+      "Price": 427,
+      "Traded _date": "2026-02-10T11:15:53.456+05:45",
+      "Ltp change percent": 0.23,
+      "turnover": 51230,
+      "previous close": 426,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.739Z",
+      "Script": "ICFC",
+      "Price": 664.7,
+      "Traded _date": "2026-02-10T11:15:53.487+05:45",
+      "Ltp change percent": 1.56,
+      "turnover": 17782,
+      "previous close": 654.5,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.724Z",
+      "Script": "MEN",
+      "Price": 581.4,
+      "Traded _date": "2026-02-10T11:15:53.501+05:45",
+      "Ltp change percent": 0,
+      "turnover": 5814,
+      "previous close": 581.4,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.799Z",
+      "Script": "GUFL",
+      "Price": 566.2,
+      "Traded _date": "2026-02-10T11:15:53.535+05:45",
+      "Ltp change percent": 0.04,
+      "turnover": 34527,
+      "previous close": 566,
       "change in value": 0
     },
     {
@@ -2511,6 +2511,16 @@
       "change in value": null
     },
     {
+      "created_at": "2025-12-18T04:58:02.725Z",
+      "Script": "FOWAD",
+      "Price": 1048.1,
+      "Traded _date": "2026-02-10T11:15:53.244+05:45",
+      "Ltp change percent": -1.94,
+      "turnover": 1203915.7,
+      "previous close": 1068.8,
+      "change in value": 0
+    },
+    {
       "created_at": "2025-12-18T04:58:02.820Z",
       "Script": "UHEWA",
       "Price": 551.1,
@@ -2521,153 +2531,23 @@
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.715Z",
-      "Script": "NABIL",
-      "Price": 495,
-      "Traded _date": "2026-02-09T15:00:19.384+05:45",
-      "Ltp change percent": -0.7,
-      "turnover": 33754161,
-      "previous close": 498.5,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.676Z",
-      "Script": "SMHL",
-      "Price": 489.8,
-      "Traded _date": "2026-02-09T15:00:19.411+05:45",
-      "Ltp change percent": 0.78,
-      "turnover": 98694566.7,
-      "previous close": 486,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.753Z",
-      "Script": "NRN",
-      "Price": 1619,
-      "Traded _date": "2026-02-09T15:00:19.421+05:45",
-      "Ltp change percent": -4.43,
-      "turnover": 203165234,
-      "previous close": 1694,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.691Z",
-      "Script": "UPCL",
-      "Price": 371,
-      "Traded _date": "2026-02-09T15:00:19.451+05:45",
-      "Ltp change percent": -1.59,
-      "turnover": 55856510.4,
-      "previous close": 377,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.792Z",
-      "Script": "SBL",
-      "Price": 378,
-      "Traded _date": "2026-02-09T15:00:19.477+05:45",
-      "Ltp change percent": -0.53,
-      "turnover": 40959661.1,
-      "previous close": 380,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.703Z",
-      "Script": "DHEL",
-      "Price": 732.3,
-      "Traded _date": "2026-02-09T15:00:19.497+05:45",
-      "Ltp change percent": -2.36,
-      "turnover": 31497200.2,
-      "previous close": 750,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.745Z",
-      "Script": "SHEL",
-      "Price": 296.2,
-      "Traded _date": "2026-02-09T15:00:19.508+05:45",
-      "Ltp change percent": 0.07,
-      "turnover": 54335701.3,
-      "previous close": 296,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.677Z",
-      "Script": "PRVU",
-      "Price": 184,
-      "Traded _date": "2026-02-09T15:00:19.523+05:45",
-      "Ltp change percent": -0.54,
-      "turnover": 32204162.6,
-      "previous close": 185,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.719Z",
-      "Script": "BHPL",
-      "Price": 570,
-      "Traded _date": "2026-02-09T15:00:19.550+05:45",
-      "Ltp change percent": -2.06,
-      "turnover": 19219858.2,
-      "previous close": 582,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.710Z",
-      "Script": "PPCL",
-      "Price": 379.9,
-      "Traded _date": "2026-02-09T15:00:19.560+05:45",
-      "Ltp change percent": -2.26,
-      "turnover": 20919253.3,
-      "previous close": 388.7,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.703Z",
-      "Script": "CFCL",
-      "Price": 547,
-      "Traded _date": "2026-02-09T15:00:19.592+05:45",
-      "Ltp change percent": -3.36,
-      "turnover": 18866699,
-      "previous close": 566,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.700Z",
-      "Script": "CREST",
-      "Price": 1440,
-      "Traded _date": "2026-02-09T15:00:19.610+05:45",
-      "Ltp change percent": -3.29,
-      "turnover": 38868237.5,
-      "previous close": 1489,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.787Z",
-      "Script": "RHGCL",
-      "Price": 285,
-      "Traded _date": "2026-02-09T15:00:19.637+05:45",
-      "Ltp change percent": -3.39,
-      "turnover": 34511784.3,
-      "previous close": 295,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.821Z",
-      "Script": "CKHL",
-      "Price": 735,
-      "Traded _date": "2026-02-09T15:00:19.641+05:45",
-      "Ltp change percent": -2.13,
-      "turnover": 8539141.7,
-      "previous close": 751,
+      "created_at": "2025-12-18T04:58:02.754Z",
+      "Script": "TVCL",
+      "Price": 625,
+      "Traded _date": "2026-02-10T11:15:53.251+05:45",
+      "Ltp change percent": 1.05,
+      "turnover": 756941,
+      "previous close": 618.5,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.699Z",
       "Script": "JHAPA",
       "Price": 1400,
-      "Traded _date": "2026-02-09T15:00:19.695+05:45",
-      "Ltp change percent": -3.11,
-      "turnover": 13211946,
-      "previous close": 1445,
+      "Traded _date": "2026-02-10T11:15:53.288+05:45",
+      "Ltp change percent": 0.29,
+      "turnover": 154071,
+      "previous close": 1396,
       "change in value": 0
     },
     {
@@ -2691,6 +2571,16 @@
       "change in value": 0
     },
     {
+      "created_at": "2025-12-18T04:58:02.703Z",
+      "Script": "DHEL",
+      "Price": 725,
+      "Traded _date": "2026-02-10T11:15:53.308+05:45",
+      "Ltp change percent": -0.68,
+      "turnover": 497758,
+      "previous close": 730,
+      "change in value": 0
+    },
+    {
       "created_at": "2025-12-18T04:58:02.746Z",
       "Script": "SCB",
       "Price": 635.1,
@@ -2701,23 +2591,153 @@
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.725Z",
-      "Script": "FOWAD",
-      "Price": 1051,
-      "Traded _date": "2026-02-09T15:00:19.777+05:45",
-      "Ltp change percent": -2.23,
-      "turnover": 9260477.9,
-      "previous close": 1075,
+      "created_at": "2025-12-18T04:58:02.745Z",
+      "Script": "SHEL",
+      "Price": 299,
+      "Traded _date": "2026-02-10T11:15:53.316+05:45",
+      "Ltp change percent": 0.84,
+      "turnover": 4987286.5,
+      "previous close": 296.5,
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.754Z",
-      "Script": "TVCL",
-      "Price": 614.1,
-      "Traded _date": "2026-02-09T15:00:19.780+05:45",
-      "Ltp change percent": 4.24,
-      "turnover": 90942667.8,
-      "previous close": 589.1,
+      "created_at": "2025-12-18T04:58:02.753Z",
+      "Script": "NRN",
+      "Price": 1615,
+      "Traded _date": "2026-02-10T11:15:53.322+05:45",
+      "Ltp change percent": -1.52,
+      "turnover": 6806821.2,
+      "previous close": 1640,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.703Z",
+      "Script": "CFCL",
+      "Price": 542.9,
+      "Traded _date": "2026-02-10T11:15:53.329+05:45",
+      "Ltp change percent": -0.02,
+      "turnover": 181767,
+      "previous close": 543,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.787Z",
+      "Script": "RHGCL",
+      "Price": 289,
+      "Traded _date": "2026-02-10T11:15:53.335+05:45",
+      "Ltp change percent": 1.05,
+      "turnover": 1832174,
+      "previous close": 286,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.700Z",
+      "Script": "CREST",
+      "Price": 1446,
+      "Traded _date": "2026-02-10T11:15:53.357+05:45",
+      "Ltp change percent": -1.9,
+      "turnover": 2207563.6,
+      "previous close": 1474,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.710Z",
+      "Script": "PPCL",
+      "Price": 377.3,
+      "Traded _date": "2026-02-10T11:15:53.384+05:45",
+      "Ltp change percent": -0.71,
+      "turnover": 589954.9,
+      "previous close": 380,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.676Z",
+      "Script": "SMHL",
+      "Price": 485,
+      "Traded _date": "2026-02-10T11:15:53.410+05:45",
+      "Ltp change percent": -0.98,
+      "turnover": 3348380,
+      "previous close": 489.8,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.715Z",
+      "Script": "NABIL",
+      "Price": 497.9,
+      "Traded _date": "2026-02-10T11:15:53.452+05:45",
+      "Ltp change percent": 0.4,
+      "turnover": 146339,
+      "previous close": 495.9,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.719Z",
+      "Script": "BHPL",
+      "Price": 566,
+      "Traded _date": "2026-02-10T11:15:53.468+05:45",
+      "Ltp change percent": -0.7,
+      "turnover": 465931,
+      "previous close": 570,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.691Z",
+      "Script": "UPCL",
+      "Price": 372.1,
+      "Traded _date": "2026-02-10T11:15:53.473+05:45",
+      "Ltp change percent": 0.03,
+      "turnover": 2248223,
+      "previous close": 372,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.660Z",
+      "Script": "MKCL",
+      "Price": 1380,
+      "Traded _date": "2026-02-10T11:15:53.493+05:45",
+      "Ltp change percent": -0.07,
+      "turnover": 13800,
+      "previous close": 1381,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.821Z",
+      "Script": "CKHL",
+      "Price": 727,
+      "Traded _date": "2026-02-10T11:15:53.506+05:45",
+      "Ltp change percent": -1.49,
+      "turnover": 108310,
+      "previous close": 738,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.792Z",
+      "Script": "SBL",
+      "Price": 374,
+      "Traded _date": "2026-02-10T11:15:53.531+05:45",
+      "Ltp change percent": 0,
+      "turnover": 396440,
+      "previous close": 374,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.677Z",
+      "Script": "PRVU",
+      "Price": 185,
+      "Traded _date": "2026-02-10T11:15:53.537+05:45",
+      "Ltp change percent": 0.38,
+      "turnover": 264180,
+      "previous close": 184.3,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.720Z",
+      "Script": "SICL",
+      "Price": 621,
+      "Traded _date": "2026-02-10T11:15:53.563+05:45",
+      "Ltp change percent": -1.69,
+      "turnover": 6210,
+      "previous close": 631.7,
       "change in value": 0
     },
     {
@@ -2731,16 +2751,6 @@
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.660Z",
-      "Script": "MKCL",
-      "Price": 1380,
-      "Traded _date": "2026-02-09T15:00:19.827+05:45",
-      "Ltp change percent": -0.36,
-      "turnover": 7591171.2,
-      "previous close": 1385,
-      "change in value": 0
-    },
-    {
       "created_at": "2025-12-18T04:58:02.737Z",
       "Script": "ADBL",
       "Price": 295,
@@ -2748,16 +2758,6 @@
       "Ltp change percent": -0.34,
       "turnover": 7399661.82,
       "previous close": 296,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.720Z",
-      "Script": "SICL",
-      "Price": 631.7,
-      "Traded _date": "2026-02-09T15:00:19.856+05:45",
-      "Ltp change percent": 0.27,
-      "turnover": 7147939.9,
-      "previous close": 630,
       "change in value": 0
     },
     {
@@ -2781,223 +2781,253 @@
       "change in value": null
     },
     {
-      "created_at": "2025-12-18T04:58:02.814Z",
-      "Script": "RADHI",
-      "Price": 858,
-      "Traded _date": "2026-02-09T15:00:19.380+05:45",
-      "Ltp change percent": -3.16,
-      "turnover": 261681977.3,
-      "previous close": 886,
+      "created_at": "2025-12-18T04:58:02.695Z",
+      "Script": "HRL",
+      "Price": 850,
+      "Traded _date": "2026-02-10T11:15:53.225+05:45",
+      "Ltp change percent": 0.12,
+      "turnover": 5674343.3,
+      "previous close": 849,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.780Z",
       "Script": "SGHC",
-      "Price": 414.9,
-      "Traded _date": "2026-02-09T15:00:19.400+05:45",
-      "Ltp change percent": 2.44,
-      "turnover": 78553624.2,
-      "previous close": 405,
+      "Price": 424,
+      "Traded _date": "2026-02-10T11:15:53.234+05:45",
+      "Ltp change percent": 2.19,
+      "turnover": 7753893.1,
+      "previous close": 414.9,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.736Z",
+      "Script": "SSHL",
+      "Price": 202,
+      "Traded _date": "2026-02-10T11:15:53.246+05:45",
+      "Ltp change percent": 2.02,
+      "turnover": 9016619.7,
+      "previous close": 198,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.743Z",
+      "Script": "HIDCLP",
+      "Price": 197,
+      "Traded _date": "2026-02-10T11:15:53.247+05:45",
+      "Ltp change percent": 1.55,
+      "turnover": 3382795.5,
+      "previous close": 194,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.719Z",
+      "Script": "NHPC",
+      "Price": 236.2,
+      "Traded _date": "2026-02-10T11:15:53.258+05:45",
+      "Ltp change percent": 2.79,
+      "turnover": 35832083.6,
+      "previous close": 229.8,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.732Z",
-      "Script": "CHDC",
-      "Price": 2369,
-      "Traded _date": "2026-02-09T15:00:19.443+05:45",
-      "Ltp change percent": -1.13,
-      "turnover": 68259138,
-      "previous close": 2396,
+      "Script": "GLH",
+      "Price": 278.8,
+      "Traded _date": "2026-02-10T11:15:53.291+05:45",
+      "Ltp change percent": 1.53,
+      "turnover": 3933670.6,
+      "previous close": 274.6,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.823Z",
       "Script": "GHL",
       "Price": 255,
-      "Traded _date": "2026-02-09T15:00:19.447+05:45",
-      "Ltp change percent": 0.2,
-      "turnover": 152392232.7,
-      "previous close": 254.5,
+      "Traded _date": "2026-02-10T11:15:53.292+05:45",
+      "Ltp change percent": -0.78,
+      "turnover": 5276820.3,
+      "previous close": 257,
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.759Z",
-      "Script": "KSBBL",
-      "Price": 455.1,
-      "Traded _date": "2026-02-09T15:00:19.449+05:45",
-      "Ltp change percent": -1.07,
-      "turnover": 14447895,
-      "previous close": 460,
+      "created_at": "2025-12-18T04:58:02.814Z",
+      "Script": "RADHI",
+      "Price": 866,
+      "Traded _date": "2026-02-10T11:15:53.299+05:45",
+      "Ltp change percent": 0.46,
+      "turnover": 17354630.3,
+      "previous close": 862,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.705Z",
+      "Script": "MABEL",
+      "Price": 778,
+      "Traded _date": "2026-02-10T11:15:53.314+05:45",
+      "Ltp change percent": 1.53,
+      "turnover": 953782,
+      "previous close": 766.3,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.626Z",
+      "Script": "LSL",
+      "Price": 207,
+      "Traded _date": "2026-02-10T11:15:53.334+05:45",
+      "Ltp change percent": -0.48,
+      "turnover": 61893,
+      "previous close": 208,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.672Z",
+      "Script": "HPPL",
+      "Price": 471.7,
+      "Traded _date": "2026-02-10T11:15:53.349+05:45",
+      "Ltp change percent": 1.22,
+      "turnover": 553686,
+      "previous close": 466,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.684Z",
       "Script": "BHCL",
-      "Price": 583,
-      "Traded _date": "2026-02-09T15:00:19.485+05:45",
-      "Ltp change percent": -2.83,
-      "turnover": 54464333.2,
-      "previous close": 600,
+      "Price": 593.9,
+      "Traded _date": "2026-02-10T11:15:53.351+05:45",
+      "Ltp change percent": 1.52,
+      "turnover": 1367471.6,
+      "previous close": 585,
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.719Z",
-      "Script": "NHPC",
-      "Price": 229.6,
-      "Traded _date": "2026-02-09T15:00:19.495+05:45",
-      "Ltp change percent": 5.81,
-      "turnover": 242782881.7,
-      "previous close": 217,
+      "created_at": "2025-12-18T04:58:02.704Z",
+      "Script": "SJLIC",
+      "Price": 429,
+      "Traded _date": "2026-02-10T11:15:53.398+05:45",
+      "Ltp change percent": -0.69,
+      "turnover": 144722,
+      "previous close": 432,
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.736Z",
-      "Script": "SSHL",
-      "Price": 197.8,
-      "Traded _date": "2026-02-09T15:00:19.504+05:45",
-      "Ltp change percent": 1.44,
-      "turnover": 157894726.5,
-      "previous close": 195,
+      "created_at": "2025-12-18T04:58:02.733Z",
+      "Script": "BNHC",
+      "Price": 520.1,
+      "Traded _date": "2026-02-10T11:15:53.405+05:45",
+      "Ltp change percent": -1.5,
+      "turnover": 769807,
+      "previous close": 528,
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.732Z",
-      "Script": "GLH",
-      "Price": 272,
-      "Traded _date": "2026-02-09T15:00:19.512+05:45",
-      "Ltp change percent": 0.7,
-      "turnover": 30891335.1,
-      "previous close": 270.1,
+      "created_at": "2025-12-18T04:58:02.692Z",
+      "Script": "BFC",
+      "Price": 480,
+      "Traded _date": "2026-02-10T11:15:53.440+05:45",
+      "Ltp change percent": 0.65,
+      "turnover": 24000,
+      "previous close": 476.9,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.747Z",
+      "Script": "SPHL",
+      "Price": 584,
+      "Traded _date": "2026-02-10T11:15:53.465+05:45",
+      "Ltp change percent": 1.69,
+      "turnover": 148785,
+      "previous close": 574.3,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.781Z",
+      "Script": "IHL",
+      "Price": 543.8,
+      "Traded _date": "2026-02-10T11:15:53.483+05:45",
+      "Ltp change percent": -0.04,
+      "turnover": 168434,
+      "previous close": 544,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.766Z",
+      "Script": "SPIL",
+      "Price": 700,
+      "Traded _date": "2026-02-10T11:15:53.489+05:45",
+      "Ltp change percent": 0,
+      "turnover": 210876,
+      "previous close": 700,
+      "change in value": null
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.806Z",
+      "Script": "CIT",
+      "Price": 1745,
+      "Traded _date": "2026-02-10T11:15:53.512+05:45",
+      "Ltp change percent": -0.01,
+      "turnover": 200746,
+      "previous close": 1745.1,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.690Z",
       "Script": "SINDU",
-      "Price": 788,
-      "Traded _date": "2026-02-09T15:00:19.514+05:45",
-      "Ltp change percent": -4.02,
-      "turnover": 44216314.6,
-      "previous close": 821,
+      "Price": 785,
+      "Traded _date": "2026-02-10T11:15:53.518+05:45",
+      "Ltp change percent": -0.38,
+      "turnover": 117800,
+      "previous close": 788,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.759Z",
       "Script": "CZBIL",
       "Price": 190,
-      "Traded _date": "2026-02-09T15:00:19.529+05:45",
-      "Ltp change percent": -1.5,
-      "turnover": 9111399.7,
-      "previous close": 192.9,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.695Z",
-      "Script": "HRL",
-      "Price": 850,
-      "Traded _date": "2026-02-09T15:00:19.581+05:45",
-      "Ltp change percent": -0.82,
-      "turnover": 99304512.1,
-      "previous close": 857,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.672Z",
-      "Script": "HPPL",
-      "Price": 466,
-      "Traded _date": "2026-02-09T15:00:19.600+05:45",
-      "Ltp change percent": -1.48,
-      "turnover": 36179147.4,
-      "previous close": 473,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.788Z",
-      "Script": "SKBBL",
-      "Price": 759,
-      "Traded _date": "2026-02-09T15:00:19.606+05:45",
-      "Ltp change percent": -0.33,
-      "turnover": 14872790.1,
-      "previous close": 761.5,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.743Z",
-      "Script": "HIDCLP",
-      "Price": 194,
-      "Traded _date": "2026-02-09T15:00:19.651+05:45",
-      "Ltp change percent": 1.46,
-      "turnover": 136454895,
-      "previous close": 191.2,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.705Z",
-      "Script": "MABEL",
-      "Price": 766,
-      "Traded _date": "2026-02-09T15:00:19.665+05:45",
-      "Ltp change percent": -4.96,
-      "turnover": 15014600.9,
-      "previous close": 806,
+      "Traded _date": "2026-02-10T11:15:53.543+05:45",
+      "Ltp change percent": 0,
+      "turnover": 330990,
+      "previous close": 190,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.782Z",
       "Script": "NMB",
-      "Price": 232.7,
-      "Traded _date": "2026-02-09T15:00:19.687+05:45",
-      "Ltp change percent": -0.68,
-      "turnover": 9216046.6,
-      "previous close": 234.3,
+      "Price": 232.5,
+      "Traded _date": "2026-02-10T11:15:53.550+05:45",
+      "Ltp change percent": -0.09,
+      "turnover": 13020,
+      "previous close": 232.7,
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.806Z",
-      "Script": "CIT",
-      "Price": 1745.1,
-      "Traded _date": "2026-02-09T15:00:19.697+05:45",
-      "Ltp change percent": -0.85,
-      "turnover": 13787056.6,
-      "previous close": 1760,
+      "created_at": "2025-12-18T04:58:02.732Z",
+      "Script": "CHDC",
+      "Price": 2399.9,
+      "Traded _date": "2026-02-10T11:15:53.571+05:45",
+      "Ltp change percent": 1.09,
+      "turnover": 23999,
+      "previous close": 2374,
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.781Z",
-      "Script": "IHL",
-      "Price": 534.1,
-      "Traded _date": "2026-02-09T15:00:19.788+05:45",
-      "Ltp change percent": -2.36,
-      "turnover": 5683724.1,
-      "previous close": 547,
+      "created_at": "2025-12-18T04:58:02.788Z",
+      "Script": "SKBBL",
+      "Price": 755,
+      "Traded _date": "2026-02-10T11:15:53.576+05:45",
+      "Ltp change percent": -0.53,
+      "turnover": 182429.4,
+      "previous close": 759,
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.626Z",
-      "Script": "LSL",
-      "Price": 208,
-      "Traded _date": "2026-02-09T15:00:19.798+05:45",
-      "Ltp change percent": -0.43,
-      "turnover": 7546887.6,
-      "previous close": 208.9,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.704Z",
-      "Script": "SJLIC",
-      "Price": 429.2,
-      "Traded _date": "2026-02-09T15:00:19.804+05:45",
-      "Ltp change percent": -2.03,
-      "turnover": 26022315.4,
-      "previous close": 438.1,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.692Z",
-      "Script": "BFC",
-      "Price": 475.1,
-      "Traded _date": "2026-02-09T15:00:19.811+05:45",
-      "Ltp change percent": -2.04,
-      "turnover": 12622791.4,
-      "previous close": 485,
+      "created_at": "2025-12-18T04:58:02.759Z",
+      "Script": "KSBBL",
+      "Price": 455.1,
+      "Traded _date": "2026-02-10T11:15:53.585+05:45",
+      "Ltp change percent": 0,
+      "turnover": 16838.7,
+      "previous close": 455.1,
       "change in value": 0
     },
     {
@@ -3011,16 +3041,6 @@
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.733Z",
-      "Script": "BNHC",
-      "Price": 528,
-      "Traded _date": "2026-02-09T15:00:19.873+05:45",
-      "Ltp change percent": -3.65,
-      "turnover": 59980446.4,
-      "previous close": 548,
-      "change in value": 0
-    },
-    {
       "created_at": "2025-12-18T04:58:02.810Z",
       "Script": "GLBSL",
       "Price": 1950,
@@ -3029,26 +3049,6 @@
       "turnover": 1118638,
       "previous close": 1986,
       "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.747Z",
-      "Script": "SPHL",
-      "Price": 574.3,
-      "Traded _date": "2026-02-09T15:00:19.912+05:45",
-      "Ltp change percent": -0.79,
-      "turnover": 4237128.4,
-      "previous close": 578.9,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.766Z",
-      "Script": "SPIL",
-      "Price": 690,
-      "Traded _date": "2026-02-09T15:00:19.927+05:45",
-      "Ltp change percent": -3.5,
-      "turnover": 13104120.4,
-      "previous close": 715,
-      "change in value": null
     },
     {
       "created_at": "2025-12-18T04:54:19.184Z",
@@ -3093,91 +3093,41 @@
     {
       "created_at": "2025-12-18T04:58:02.711Z",
       "Script": "NGPL",
-      "Price": 421,
-      "Traded _date": "2026-02-09T15:00:19.378+05:45",
-      "Ltp change percent": -1.59,
-      "turnover": 336991320.8,
-      "previous close": 427.8,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.757Z",
-      "Script": "JOSHI",
-      "Price": 310,
-      "Traded _date": "2026-02-09T15:00:19.416+05:45",
-      "Ltp change percent": -2.82,
-      "turnover": 30326351.1,
-      "previous close": 319,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.718Z",
-      "Script": "AKJCL",
-      "Price": 362,
-      "Traded _date": "2026-02-09T15:00:19.445+05:45",
-      "Ltp change percent": -0.28,
-      "turnover": 480655765.2,
-      "previous close": 363,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.678Z",
-      "Script": "AHPC",
-      "Price": 280,
-      "Traded _date": "2026-02-09T15:00:19.454+05:45",
-      "Ltp change percent": 1.67,
-      "turnover": 79023418.8,
-      "previous close": 275.4,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.633Z",
-      "Script": "SAIL",
-      "Price": 1392,
-      "Traded _date": "2026-02-09T15:00:19.458+05:45",
-      "Ltp change percent": -4,
-      "turnover": 140722342.3,
-      "previous close": 1450,
+      "Price": 424,
+      "Traded _date": "2026-02-10T11:15:53.259+05:45",
+      "Ltp change percent": 0.24,
+      "turnover": 2253138,
+      "previous close": 423,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.710Z",
       "Script": "GCIL",
-      "Price": 419,
-      "Traded _date": "2026-02-09T15:00:19.462+05:45",
-      "Ltp change percent": -0.71,
-      "turnover": 9488079.9,
-      "previous close": 422,
+      "Price": 416.5,
+      "Traded _date": "2026-02-10T11:15:53.266+05:45",
+      "Ltp change percent": -0.36,
+      "turnover": 17506.5,
+      "previous close": 418,
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.714Z",
-      "Script": "PHCL",
-      "Price": 282,
-      "Traded _date": "2026-02-09T15:00:19.548+05:45",
-      "Ltp change percent": -2.15,
-      "turnover": 38328007.2,
-      "previous close": 288.2,
+      "created_at": "2025-12-18T04:58:02.633Z",
+      "Script": "SAIL",
+      "Price": 1376,
+      "Traded _date": "2026-02-10T11:15:53.284+05:45",
+      "Ltp change percent": -1.71,
+      "turnover": 1809642,
+      "previous close": 1399.9,
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.818Z",
-      "Script": "SMH",
-      "Price": 894,
-      "Traded _date": "2026-02-09T15:00:19.571+05:45",
-      "Ltp change percent": -4.05,
-      "turnover": 33633478.2,
-      "previous close": 931.7,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.816Z",
-      "Script": "MLBL",
-      "Price": 367.8,
-      "Traded _date": "2026-02-09T15:00:19.604+05:45",
-      "Ltp change percent": -0.59,
-      "turnover": 14243362.2,
-      "previous close": 370,
+      "created_at": "2025-12-18T04:58:02.718Z",
+      "Script": "AKJCL",
+      "Price": 365.9,
+      "Traded _date": "2026-02-10T11:15:53.295+05:45",
+      "Ltp change percent": 0.3,
+      "turnover": 8382559.1,
+      "previous close": 364.8,
       "change in value": 0
     },
     {
@@ -3203,31 +3153,11 @@
     {
       "created_at": "2025-12-18T04:58:02.707Z",
       "Script": "NICLBSL",
-      "Price": 566,
-      "Traded _date": "2026-02-09T15:00:19.736+05:45",
-      "Ltp change percent": -2.08,
-      "turnover": 6136147.8,
-      "previous close": 578,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.728Z",
-      "Script": "PRIN",
-      "Price": 708,
-      "Traded _date": "2026-02-09T15:00:19.759+05:45",
-      "Ltp change percent": -2.48,
-      "turnover": 26131981.7,
-      "previous close": 726,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.810Z",
-      "Script": "VLBS",
-      "Price": 774,
-      "Traded _date": "2026-02-09T15:00:19.817+05:45",
-      "Ltp change percent": 0.13,
-      "turnover": 4693541.5,
-      "previous close": 773,
+      "Price": 565,
+      "Traded _date": "2026-02-10T11:15:53.339+05:45",
+      "Ltp change percent": -0.88,
+      "turnover": 62054,
+      "previous close": 570,
       "change in value": 0
     },
     {
@@ -3241,13 +3171,103 @@
       "change in value": 0
     },
     {
+      "created_at": "2025-12-18T04:58:02.678Z",
+      "Script": "AHPC",
+      "Price": 283,
+      "Traded _date": "2026-02-10T11:15:53.360+05:45",
+      "Ltp change percent": 1.07,
+      "turnover": 6485223.6,
+      "previous close": 280,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.810Z",
+      "Script": "VLBS",
+      "Price": 775,
+      "Traded _date": "2026-02-10T11:15:53.365+05:45",
+      "Ltp change percent": 0.13,
+      "turnover": 19375,
+      "previous close": 774,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.714Z",
+      "Script": "PHCL",
+      "Price": 281.1,
+      "Traded _date": "2026-02-10T11:15:53.367+05:45",
+      "Ltp change percent": -1.02,
+      "turnover": 509145.5,
+      "previous close": 284,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.816Z",
+      "Script": "MLBL",
+      "Price": 370.9,
+      "Traded _date": "2026-02-10T11:15:53.376+05:45",
+      "Ltp change percent": 0.84,
+      "turnover": 131844,
+      "previous close": 367.8,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.818Z",
+      "Script": "SMH",
+      "Price": 876,
+      "Traded _date": "2026-02-10T11:15:53.447+05:45",
+      "Ltp change percent": -1.57,
+      "turnover": 812634,
+      "previous close": 890,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.728Z",
+      "Script": "PRIN",
+      "Price": 715,
+      "Traded _date": "2026-02-10T11:15:53.472+05:45",
+      "Ltp change percent": 0.99,
+      "turnover": 714449,
+      "previous close": 708,
+      "change in value": 0
+    },
+    {
       "created_at": "2025-12-18T04:58:02.756Z",
       "Script": "GSY",
-      "Price": 9.42,
-      "Traded _date": "2026-02-09T15:00:19.842+05:45",
-      "Ltp change percent": -1.88,
-      "turnover": 41473,
-      "previous close": 9.6,
+      "Price": 9.6,
+      "Traded _date": "2026-02-10T11:15:53.508+05:45",
+      "Ltp change percent": 1.91,
+      "turnover": 1958,
+      "previous close": 9.42,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.757Z",
+      "Script": "JOSHI",
+      "Price": 310.5,
+      "Traded _date": "2026-02-10T11:15:53.523+05:45",
+      "Ltp change percent": 0.06,
+      "turnover": 143757,
+      "previous close": 310.3,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.805Z",
+      "Script": "NWCL",
+      "Price": 879,
+      "Traded _date": "2026-02-10T11:15:53.529+05:45",
+      "Ltp change percent": -0.11,
+      "turnover": 594154,
+      "previous close": 880,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.753Z",
+      "Script": "DLBS",
+      "Price": 1300,
+      "Traded _date": "2026-02-10T11:15:53.559+05:45",
+      "Ltp change percent": -1.37,
+      "turnover": 13000,
+      "previous close": 1318.1,
       "change in value": 0
     },
     {
@@ -3261,16 +3281,6 @@
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.805Z",
-      "Script": "NWCL",
-      "Price": 880,
-      "Traded _date": "2026-02-09T15:00:19.871+05:45",
-      "Ltp change percent": -4.35,
-      "turnover": 7454022.2,
-      "previous close": 920,
-      "change in value": 0
-    },
-    {
       "created_at": "2025-12-18T04:58:02.744Z",
       "Script": "HLBSL",
       "Price": 900.1,
@@ -3279,16 +3289,6 @@
       "turnover": 4716281.8,
       "previous close": 910,
       "change in value": null
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.753Z",
-      "Script": "DLBS",
-      "Price": 1318.1,
-      "Traded _date": "2026-02-09T15:00:19.883+05:45",
-      "Ltp change percent": -0.89,
-      "turnover": 1420720.4,
-      "previous close": 1330,
-      "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.786Z",
@@ -3351,6 +3351,36 @@
       "change in value": 0
     },
     {
+      "created_at": "2025-12-18T04:58:02.828Z",
+      "Script": "MMF1",
+      "Price": 9,
+      "Traded _date": "2026-02-10T11:15:53.346+05:45",
+      "Ltp change percent": 0.9,
+      "turnover": 1809,
+      "previous close": 8.92,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.791Z",
+      "Script": "MANDU",
+      "Price": 829,
+      "Traded _date": "2026-02-10T11:15:53.401+05:45",
+      "Ltp change percent": 1.97,
+      "turnover": 505558,
+      "previous close": 813,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.821Z",
+      "Script": "MERO",
+      "Price": 751,
+      "Traded _date": "2026-02-10T11:15:53.499+05:45",
+      "Ltp change percent": 1.9,
+      "turnover": 15020,
+      "previous close": 737,
+      "change in value": 0
+    },
+    {
       "created_at": "2025-12-18T04:58:02.830Z",
       "Script": "UNLB",
       "Price": 1860,
@@ -3381,16 +3411,6 @@
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.821Z",
-      "Script": "MERO",
-      "Price": 736,
-      "Traded _date": "2026-02-09T15:00:19.885+05:45",
-      "Ltp change percent": -0.27,
-      "turnover": 6167726.2,
-      "previous close": 738,
-      "change in value": 0
-    },
-    {
       "created_at": "2025-12-18T04:58:02.811Z",
       "Script": "ENL",
       "Price": 929.9,
@@ -3398,16 +3418,6 @@
       "Ltp change percent": -1.07,
       "turnover": 759809,
       "previous close": 940,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.791Z",
-      "Script": "MANDU",
-      "Price": 813,
-      "Traded _date": "2026-02-09T15:00:19.893+05:45",
-      "Ltp change percent": -1.8,
-      "turnover": 1036104,
-      "previous close": 827.9,
       "change in value": 0
     },
     {
@@ -3438,16 +3448,6 @@
       "Ltp change percent": -1.26,
       "turnover": 29651,
       "previous close": 9.5,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.828Z",
-      "Script": "MMF1",
-      "Price": 8.92,
-      "Traded _date": "2026-02-09T15:00:19.955+05:45",
-      "Ltp change percent": -0.34,
-      "turnover": 64458,
-      "previous close": 8.95,
       "change in value": 0
     },
     {
@@ -3601,53 +3601,13 @@
       "change in value": null
     },
     {
-      "created_at": "2025-12-18T04:58:02.815Z",
-      "Script": "SAPDBL",
-      "Price": 833,
-      "Traded _date": "2026-02-09T15:00:19.377+05:45",
-      "Ltp change percent": -3.59,
-      "turnover": 77315079.6,
-      "previous close": 864,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.797Z",
-      "Script": "BPCL",
-      "Price": 725.1,
-      "Traded _date": "2026-02-09T15:00:19.414+05:45",
-      "Ltp change percent": -2.41,
-      "turnover": 87686773,
-      "previous close": 743,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.798Z",
-      "Script": "IGI",
-      "Price": 430.3,
-      "Traded _date": "2026-02-09T15:00:19.427+05:45",
-      "Ltp change percent": -2.18,
-      "turnover": 6710163.7,
-      "previous close": 439.9,
-      "change in value": 0
-    },
-    {
       "created_at": "2025-12-18T04:58:02.796Z",
       "Script": "SYPNL",
-      "Price": 1928.9,
-      "Traded _date": "2026-02-09T15:00:19.491+05:45",
-      "Ltp change percent": -4.47,
-      "turnover": 537364061,
-      "previous close": 2019.1,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.817Z",
-      "Script": "NESDO",
-      "Price": 1524,
-      "Traded _date": "2026-02-09T15:00:19.554+05:45",
-      "Ltp change percent": -0.19,
-      "turnover": 2644417.3,
-      "previous close": 1526.9,
+      "Price": 1960,
+      "Traded _date": "2026-02-10T11:15:53.241+05:45",
+      "Ltp change percent": 1.08,
+      "turnover": 17710558.6,
+      "previous close": 1939,
       "change in value": 0
     },
     {
@@ -3661,33 +3621,113 @@
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.853Z",
-      "Script": "LVF2",
-      "Price": 9.5,
-      "Traded _date": "2026-02-09T15:00:19.678+05:45",
-      "Ltp change percent": 0,
-      "turnover": 25683.3,
-      "previous close": 9.5,
+      "created_at": "2025-12-18T04:58:02.789Z",
+      "Script": "SADBL",
+      "Price": 414,
+      "Traded _date": "2026-02-10T11:15:53.379+05:45",
+      "Ltp change percent": 0.49,
+      "turnover": 8192,
+      "previous close": 412,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.721Z",
+      "Script": "NICGF2",
+      "Price": 9.25,
+      "Traded _date": "2026-02-10T11:15:53.393+05:45",
+      "Ltp change percent": -0.22,
+      "turnover": 4625,
+      "previous close": 9.27,
+      "change in value": null
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.797Z",
+      "Script": "BPCL",
+      "Price": 730,
+      "Traded _date": "2026-02-10T11:15:53.396+05:45",
+      "Ltp change percent": 0.41,
+      "turnover": 1045895,
+      "previous close": 727,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.839Z",
+      "Script": "PSF",
+      "Price": 11.03,
+      "Traded _date": "2026-02-10T11:15:53.414+05:45",
+      "Ltp change percent": -0.36,
+      "turnover": 29706,
+      "previous close": 11.07,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.815Z",
+      "Script": "SAPDBL",
+      "Price": 826.1,
+      "Traded _date": "2026-02-10T11:15:53.418+05:45",
+      "Ltp change percent": -0.72,
+      "turnover": 3198303.5,
+      "previous close": 832.1,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.798Z",
+      "Script": "IGI",
+      "Price": 431,
+      "Traded _date": "2026-02-10T11:15:53.428+05:45",
+      "Ltp change percent": 0.16,
+      "turnover": 111629,
+      "previous close": 430.3,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.790Z",
+      "Script": "MBLEF",
+      "Price": 10,
+      "Traded _date": "2026-02-10T11:15:53.443+05:45",
+      "Ltp change percent": -0.89,
+      "turnover": 2998,
+      "previous close": 10.09,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.838Z",
+      "Script": "MHNL",
+      "Price": 270.1,
+      "Traded _date": "2026-02-10T11:15:53.485+05:45",
+      "Ltp change percent": -0.7,
+      "turnover": 96842,
+      "previous close": 272,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.728Z",
       "Script": "SLBSL",
-      "Price": 1302.1,
-      "Traded _date": "2026-02-09T15:00:19.711+05:45",
-      "Ltp change percent": -1.65,
-      "turnover": 1975717.4,
-      "previous close": 1324,
+      "Price": 1302,
+      "Traded _date": "2026-02-10T11:15:53.498+05:45",
+      "Ltp change percent": -0.01,
+      "turnover": 18228,
+      "previous close": 1302.1,
       "change in value": null
     },
     {
-      "created_at": "2025-12-18T04:58:02.838Z",
-      "Script": "MHNL",
-      "Price": 273,
-      "Traded _date": "2026-02-09T15:00:19.757+05:45",
-      "Ltp change percent": -1.44,
-      "turnover": 6516942.8,
-      "previous close": 277,
+      "created_at": "2025-12-18T04:58:02.853Z",
+      "Script": "LVF2",
+      "Price": 9.5,
+      "Traded _date": "2026-02-10T11:15:53.520+05:45",
+      "Ltp change percent": 0,
+      "turnover": 950,
+      "previous close": 9.5,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.840Z",
+      "Script": "GIBF1",
+      "Price": 10.45,
+      "Traded _date": "2026-02-10T11:15:53.557+05:45",
+      "Ltp change percent": -1.42,
+      "turnover": 3165,
+      "previous close": 10.6,
       "change in value": 0
     },
     {
@@ -3701,23 +3741,23 @@
       "change in value": null
     },
     {
-      "created_at": "2025-12-18T04:58:02.789Z",
-      "Script": "SADBL",
-      "Price": 411.7,
-      "Traded _date": "2026-02-09T15:00:19.765+05:45",
-      "Ltp change percent": -0.8,
-      "turnover": 14228963.2,
-      "previous close": 415,
+      "created_at": "2025-12-18T04:58:02.845Z",
+      "Script": "MSLB",
+      "Price": 1345,
+      "Traded _date": "2026-02-10T11:15:53.565+05:45",
+      "Ltp change percent": 1.97,
+      "turnover": 40300,
+      "previous close": 1319,
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.790Z",
-      "Script": "MBLEF",
-      "Price": 10.09,
-      "Traded _date": "2026-02-09T15:00:19.850+05:45",
-      "Ltp change percent": -0.1,
-      "turnover": 236555,
-      "previous close": 10.1,
+      "created_at": "2025-12-18T04:58:02.817Z",
+      "Script": "NESDO",
+      "Price": 1524,
+      "Traded _date": "2026-02-10T11:15:53.575+05:45",
+      "Ltp change percent": 0,
+      "turnover": 155448,
+      "previous close": 1524,
       "change in value": 0
     },
     {
@@ -3729,26 +3769,6 @@
       "turnover": 239316,
       "previous close": 10.12,
       "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.845Z",
-      "Script": "MSLB",
-      "Price": 1300,
-      "Traded _date": "2026-02-09T15:00:19.891+05:45",
-      "Ltp change percent": -1.52,
-      "turnover": 7575420.3,
-      "previous close": 1320,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.721Z",
-      "Script": "NICGF2",
-      "Price": 9.27,
-      "Traded _date": "2026-02-09T15:00:19.940+05:45",
-      "Ltp change percent": -0.86,
-      "turnover": 24965,
-      "previous close": 9.35,
-      "change in value": null
     },
     {
       "created_at": "2025-12-18T04:58:02.843Z",
@@ -3779,26 +3799,6 @@
       "turnover": 406005.25,
       "previous close": 1065,
       "change in value": null
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.839Z",
-      "Script": "PSF",
-      "Price": 11.07,
-      "Traded _date": "2026-02-09T15:00:19.978+05:45",
-      "Ltp change percent": -2.89,
-      "turnover": 22164,
-      "previous close": 11.4,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.840Z",
-      "Script": "GIBF1",
-      "Price": 10.6,
-      "Traded _date": "2026-02-09T15:00:19.980+05:45",
-      "Ltp change percent": -1.85,
-      "turnover": 1084953,
-      "previous close": 10.8,
-      "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.806Z",
@@ -3911,6 +3911,16 @@
       "change in value": null
     },
     {
+      "created_at": "2025-12-18T04:58:02.847Z",
+      "Script": "KMCDB",
+      "Price": 922,
+      "Traded _date": "2026-02-10T11:15:53.220+05:45",
+      "Ltp change percent": -0.32,
+      "turnover": 98635.3,
+      "previous close": 925,
+      "change in value": 0
+    },
+    {
       "created_at": "2025-12-18T04:58:02.795Z",
       "Script": "SFCL",
       "Price": 387,
@@ -3931,53 +3941,53 @@
       "change in value": 0
     },
     {
+      "created_at": "2025-12-18T04:58:02.837Z",
+      "Script": "MKHL",
+      "Price": 836.1,
+      "Traded _date": "2026-02-10T11:15:53.276+05:45",
+      "Ltp change percent": -3.12,
+      "turnover": 304858,
+      "previous close": 863,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.828Z",
+      "Script": "HEI",
+      "Price": 500,
+      "Traded _date": "2026-02-10T11:15:53.442+05:45",
+      "Ltp change percent": -0.99,
+      "turnover": 244518,
+      "previous close": 505,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.831Z",
+      "Script": "EDBL",
+      "Price": 581,
+      "Traded _date": "2026-02-10T11:15:53.459+05:45",
+      "Ltp change percent": -0.82,
+      "turnover": 63910,
+      "previous close": 585.8,
+      "change in value": 0
+    },
+    {
       "created_at": "2025-12-18T04:58:02.786Z",
       "Script": "RHPL",
-      "Price": 277,
-      "Traded _date": "2026-02-09T15:00:19.544+05:45",
-      "Ltp change percent": -1.42,
-      "turnover": 11610895.6,
-      "previous close": 281,
+      "Price": 278,
+      "Traded _date": "2026-02-10T11:15:53.471+05:45",
+      "Ltp change percent": 0,
+      "turnover": 58130,
+      "previous close": 278,
       "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.829Z",
       "Script": "NMFBS",
-      "Price": 1111,
-      "Traded _date": "2026-02-09T15:00:19.575+05:45",
-      "Ltp change percent": 0,
-      "turnover": 2994748.7,
+      "Price": 1090,
+      "Traded _date": "2026-02-10T11:15:53.525+05:45",
+      "Ltp change percent": -1.89,
+      "turnover": 77415.2,
       "previous close": 1111,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.793Z",
-      "Script": "GMFBS",
-      "Price": 1462.8,
-      "Traded _date": "2026-02-09T15:00:19.583+05:45",
-      "Ltp change percent": -0.49,
-      "turnover": 1140696.5,
-      "previous close": 1470,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.838Z",
-      "Script": "TSHL",
-      "Price": 788,
-      "Traded _date": "2026-02-09T15:00:19.633+05:45",
-      "Ltp change percent": -2.23,
-      "turnover": 3340494.2,
-      "previous close": 806,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.811Z",
-      "Script": "MKJC",
-      "Price": 535,
-      "Traded _date": "2026-02-09T15:00:19.680+05:45",
-      "Ltp change percent": -0.37,
-      "turnover": 24666448.6,
-      "previous close": 537,
       "change in value": 0
     },
     {
@@ -4011,33 +4021,33 @@
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.837Z",
-      "Script": "MKHL",
-      "Price": 847,
-      "Traded _date": "2026-02-09T15:00:19.831+05:45",
-      "Ltp change percent": -2.64,
-      "turnover": 21117405.8,
-      "previous close": 870,
+      "created_at": "2025-12-18T04:58:02.811Z",
+      "Script": "MKJC",
+      "Price": 544,
+      "Traded _date": "2026-02-10T11:15:53.555+05:45",
+      "Ltp change percent": 1.12,
+      "turnover": 570291,
+      "previous close": 538,
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.831Z",
-      "Script": "EDBL",
-      "Price": 586,
-      "Traded _date": "2026-02-09T15:00:19.835+05:45",
-      "Ltp change percent": -1.76,
-      "turnover": 10658009.9,
-      "previous close": 596.5,
+      "created_at": "2025-12-18T04:58:02.793Z",
+      "Script": "GMFBS",
+      "Price": 1435.1,
+      "Traded _date": "2026-02-10T11:15:53.569+05:45",
+      "Ltp change percent": -1.89,
+      "turnover": 14351,
+      "previous close": 1462.8,
       "change in value": 0
     },
     {
-      "created_at": "2025-12-18T04:58:02.828Z",
-      "Script": "HEI",
-      "Price": 503.5,
-      "Traded _date": "2026-02-09T15:00:19.869+05:45",
-      "Ltp change percent": -2.23,
-      "turnover": 3502196.9,
-      "previous close": 515,
+      "created_at": "2025-12-18T04:58:02.838Z",
+      "Script": "TSHL",
+      "Price": 785,
+      "Traded _date": "2026-02-10T11:15:53.584+05:45",
+      "Ltp change percent": -0.88,
+      "turnover": 9420,
+      "previous close": 792,
       "change in value": 0
     },
     {
@@ -4099,16 +4109,6 @@
       "turnover": null,
       "previous close": null,
       "change in value": null
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.847Z",
-      "Script": "KMCDB",
-      "Price": 925,
-      "Traded _date": "2026-02-09T15:00:19.946+05:45",
-      "Ltp change percent": -0.64,
-      "turnover": 2886269.3,
-      "previous close": 931,
-      "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.866Z",
@@ -4223,12 +4223,32 @@
     {
       "created_at": "2025-12-18T04:58:02.862Z",
       "Script": "SEF",
-      "Price": 9.79,
-      "Traded _date": "2026-02-09T15:00:19.699+05:45",
-      "Ltp change percent": 1.14,
-      "turnover": 76471,
-      "previous close": 9.68,
+      "Price": 9.7,
+      "Traded _date": "2026-02-10T11:15:53.425+05:45",
+      "Ltp change percent": -0.92,
+      "turnover": 145500,
+      "previous close": 9.79,
       "change in value": null
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.857Z",
+      "Script": "SAGF",
+      "Price": 9.72,
+      "Traded _date": "2026-02-10T11:15:53.458+05:45",
+      "Ltp change percent": 0.1,
+      "turnover": 1943,
+      "previous close": 9.71,
+      "change in value": 0
+    },
+    {
+      "created_at": "2025-12-18T04:58:02.857Z",
+      "Script": "KBSH",
+      "Price": 1618,
+      "Traded _date": "2026-02-10T11:15:53.577+05:45",
+      "Ltp change percent": -1.95,
+      "turnover": 16180,
+      "previous close": 1650.1,
+      "change in value": 0
     },
     {
       "created_at": "2025-12-18T04:58:02.859Z",
@@ -4261,16 +4281,6 @@
       "change in value": null
     },
     {
-      "created_at": "2025-12-18T04:58:02.857Z",
-      "Script": "SAGF",
-      "Price": 9.71,
-      "Traded _date": "2026-02-09T15:00:19.959+05:45",
-      "Ltp change percent": -1.42,
-      "turnover": 53422,
-      "previous close": 9.85,
-      "change in value": 0
-    },
-    {
       "created_at": "2025-12-18T04:58:02.856Z",
       "Script": "SLCF",
       "Price": 9.66,
@@ -4278,16 +4288,6 @@
       "Ltp change percent": -0.31,
       "turnover": 27558.5,
       "previous close": 9.69,
-      "change in value": 0
-    },
-    {
-      "created_at": "2025-12-18T04:58:02.857Z",
-      "Script": "KBSH",
-      "Price": 1650.1,
-      "Traded _date": "2026-02-09T15:00:19.970+05:45",
-      "Ltp change percent": -0.96,
-      "turnover": 200936,
-      "previous close": 1666.1,
       "change in value": 0
     },
     {
