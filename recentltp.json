@@ -1,6 +1,16 @@
 {
   "all recent price": [
     {
+      "created_at": "2026-02-05T05:48:35.871Z",
+      "Script": "NEPSE Index",
+      "Price": 2672.49,
+      "Traded _date": "2026-02-10T11:30:02.087+05:45",
+      "Ltp change percent": 0,
+      "turnover": 0,
+      "previous close": 2672.4,
+      "change in value": 0.09
+    },
+    {
       "created_at": "2025-12-18T04:54:18.983Z",
       "Script": "ALBSLP",
       "Price": 549,
@@ -129,16 +139,6 @@
       "turnover": null,
       "previous close": null,
       "change in value": null
-    },
-    {
-      "created_at": "2026-02-05T05:48:35.871Z",
-      "Script": "NEPSE Index",
-      "Price": 2673.87,
-      "Traded _date": "2026-02-10T11:15:35.303+05:45",
-      "Ltp change percent": 0.05,
-      "turnover": 0,
-      "previous close": 2672.4,
-      "change in value": 1.47
     },
     {
       "created_at": "2025-12-18T04:58:02.673Z",
